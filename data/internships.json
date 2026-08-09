@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T08:52:07.092400+00:00",
+  "last_updated": "2026-08-09T16:43:27.556241+00:00",
   "internships": [
     {
       "company": "CrowdStrike",
@@ -3530,14 +3530,6 @@
       "date_scraped": "2026-08-09"
     },
     {
-      "company": "SentinelOne",
-      "title": "Senior Engineering Manager - Linux Cloud Workload Security",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=7802170003",
-      "date_posted": "2026-07-12",
-      "date_scraped": "2026-08-09"
-    },
-    {
       "company": "Microsoft",
       "title": "Sr Data Scientist - FDE - Security Check (SC) Clearance",
       "location": "London, England, GB",
@@ -3596,8 +3588,8 @@
     {
       "company": "SentinelOne",
       "title": "Senior Threat Intelligence Researcher",
-      "location": "Italy",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=7769454003",
+      "location": "Spain",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7769453003",
       "date_posted": "2026-07-07",
       "date_scraped": "2026-08-09"
     },
@@ -3620,6 +3612,22 @@
     {
       "company": "SentinelOne",
       "title": "Senior Threat Intelligence Researcher",
+      "location": "Poland",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7769452003",
+      "date_posted": "2026-07-07",
+      "date_scraped": "2026-08-09"
+    },
+    {
+      "company": "SentinelOne",
+      "title": "Senior Threat Intelligence Researcher",
+      "location": "Italy",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7769454003",
+      "date_posted": "2026-07-07",
+      "date_scraped": "2026-08-09"
+    },
+    {
+      "company": "SentinelOne",
+      "title": "Senior Threat Intelligence Researcher",
       "location": "Brno, South Moravian, Czech Republic",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7769455003",
       "date_posted": "2026-07-07",
@@ -3635,18 +3643,10 @@
     },
     {
       "company": "SentinelOne",
-      "title": "Senior Threat Intelligence Researcher",
-      "location": "Poland",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=7769452003",
-      "date_posted": "2026-07-07",
-      "date_scraped": "2026-08-09"
-    },
-    {
-      "company": "SentinelOne",
-      "title": "Senior Threat Intelligence Researcher",
-      "location": "Spain",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=7769453003",
-      "date_posted": "2026-07-07",
+      "title": "Staff Software Engineer - C++ Endpoint Security, Collection Engineering ",
+      "location": "Prague, Czech Republic",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7792556003",
+      "date_posted": "2026-07-03",
       "date_scraped": "2026-08-09"
     },
     {
@@ -3662,14 +3662,6 @@
       "title": "Staff Software Engineer - C++ Endpoint Security, Collection Engineering ",
       "location": "Slovakia",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7792822003",
-      "date_posted": "2026-07-03",
-      "date_scraped": "2026-08-09"
-    },
-    {
-      "company": "SentinelOne",
-      "title": "Staff Software Engineer - C++ Endpoint Security, Collection Engineering ",
-      "location": "Prague, Czech Republic",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=7792556003",
       "date_posted": "2026-07-03",
       "date_scraped": "2026-08-09"
     },
@@ -3722,14 +3714,6 @@
       "date_scraped": "2026-08-09"
     },
     {
-      "company": "SentinelOne",
-      "title": "Senior Engineering Manager - Linux Cloud Workload Security",
-      "location": "Israel",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=7779754003",
-      "date_posted": "2026-06-23",
-      "date_scraped": "2026-08-09"
-    },
-    {
       "company": "Microsoft",
       "title": "Senior Director, Product Marketing - Endpoint Security & Management",
       "location": "Redmond, WA, US; Mountain View, CA, US; Atlanta, GA, US; New York, NY, US",
@@ -3756,16 +3740,16 @@
     {
       "company": "SentinelOne",
       "title": "Staff Full Stack Developer (React/TypeScript, Golang) - Threat Applications, Detections Engineering",
-      "location": "Prague, Czech Republic",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=7762158003",
+      "location": "Brno, South Moravian, Czech Republic",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7762159003",
       "date_posted": "2026-06-08",
       "date_scraped": "2026-08-09"
     },
     {
       "company": "SentinelOne",
       "title": "Staff Full Stack Developer (React/TypeScript, Golang) - Threat Applications, Detections Engineering",
-      "location": "Brno, South Moravian, Czech Republic",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=7762159003",
+      "location": "Prague, Czech Republic",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7762158003",
       "date_posted": "2026-06-08",
       "date_scraped": "2026-08-09"
     },
@@ -3828,14 +3812,6 @@
     {
       "company": "SentinelOne",
       "title": "Senior Software Engineer - Low Level C++ - Linux & Cloud Security",
-      "location": "Czech Republic",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=7561109003",
-      "date_posted": "2025-12-15",
-      "date_scraped": "2026-08-09"
-    },
-    {
-      "company": "SentinelOne",
-      "title": "Senior Software Engineer - Low Level C++ - Linux & Cloud Security",
       "location": "Prague, Czech Republic",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7561106003",
       "date_posted": "2025-12-15",
@@ -3858,6 +3834,14 @@
       "date_scraped": "2026-08-09"
     },
     {
+      "company": "SentinelOne",
+      "title": "Senior Software Engineer - Low Level C++ - Linux & Cloud Security",
+      "location": "Czech Republic",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7561109003",
+      "date_posted": "2025-12-15",
+      "date_scraped": "2026-08-09"
+    },
+    {
       "company": "Microsoft",
       "title": "Senior Security Researchers",
       "location": "Redmond, WA, US; US",
@@ -3871,14 +3855,6 @@
       "location": "United States - Remote",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=6665700003",
       "date_posted": "2025-10-30",
-      "date_scraped": "2026-08-09"
-    },
-    {
-      "company": "SentinelOne",
-      "title": "Staff Windows Low Level C++ Engineer - Endpoint security",
-      "location": "Spain",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=6647497003",
-      "date_posted": "2025-07-14",
       "date_scraped": "2026-08-09"
     },
     {
@@ -3900,8 +3876,16 @@
     {
       "company": "SentinelOne",
       "title": "Staff Windows Low Level C++ Engineer - Endpoint security",
-      "location": "Czech Republic",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=6629340003",
+      "location": "Spain",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=6647497003",
+      "date_posted": "2025-07-14",
+      "date_scraped": "2026-08-09"
+    },
+    {
+      "company": "SentinelOne",
+      "title": "Staff Windows Low Level C++ Engineer - Endpoint security",
+      "location": "Slovakia",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=6639641003",
       "date_posted": "2025-07-09",
       "date_scraped": "2026-08-09"
     },
@@ -3924,8 +3908,8 @@
     {
       "company": "SentinelOne",
       "title": "Staff Windows Low Level C++ Engineer - Endpoint security",
-      "location": "Slovakia",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=6639641003",
+      "location": "Czech Republic",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=6629340003",
       "date_posted": "2025-07-09",
       "date_scraped": "2026-08-09"
     }
