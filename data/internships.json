@@ -1,36 +1,12 @@
 {
-  "last_updated": "2026-08-09T02:08:20.424769+00:00",
+  "last_updated": "2026-08-09T08:52:07.092400+00:00",
   "internships": [
-    {
-      "company": "CrowdStrike",
-      "title": "Software Engineering Manager - Cloud Security (Hybrid)",
-      "location": "USA - New York, NY",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Software-Engineering-Manager---Cloud-Security--Hybrid-_R27304",
-      "date_posted": "Posted Yesterday",
-      "date_scraped": "2026-08-09"
-    },
-    {
-      "company": "CrowdStrike",
-      "title": "Sr Engineer II - SDET, NG-SIEM (Hybrid)",
-      "location": "USA - Austin, TX",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/Sr-Engineer-II---SDET--NG-SIEM--Hybrid-_R29401",
-      "date_posted": "Posted Yesterday",
-      "date_scraped": "2026-08-09"
-    },
-    {
-      "company": "CrowdStrike",
-      "title": "Software Engineer III - Cloud Security - FCS Registration (Hybrid NYC)",
-      "location": "USA - New York, NY",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Software-Engineer-III---Cloud-Security---FCS-Registration--Hybrid-_R29327-1",
-      "date_posted": "Posted Yesterday",
-      "date_scraped": "2026-08-09"
-    },
     {
       "company": "CrowdStrike",
       "title": "Engineer III - Vulnerability Detection",
       "location": "India - Pune",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Pune/Engineer-III---Vulnerability-Detection_R29691",
-      "date_posted": "Posted Today",
+      "date_posted": "Posted Yesterday",
       "date_scraped": "2026-08-09"
     },
     {
@@ -38,7 +14,31 @@
       "title": "Security Engineer (Hybrid, Bucharest)",
       "location": "Romania - Bucharest",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Romania---Bucharest/Incident-Response-Analyst-II--Hybrid--Bucharest-_R29614",
-      "date_posted": "Posted Today",
+      "date_posted": "Posted Yesterday",
+      "date_scraped": "2026-08-09"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Software Engineering Manager - Cloud Security (Hybrid)",
+      "location": "USA - New York, NY",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Software-Engineering-Manager---Cloud-Security--Hybrid-_R27304",
+      "date_posted": "Posted 2 Days Ago",
+      "date_scraped": "2026-08-09"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Sr Engineer II - SDET, NG-SIEM (Hybrid)",
+      "location": "USA - Austin, TX",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/Sr-Engineer-II---SDET--NG-SIEM--Hybrid-_R29401",
+      "date_posted": "Posted 2 Days Ago",
+      "date_scraped": "2026-08-09"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Software Engineer III - Cloud Security - FCS Registration (Hybrid NYC)",
+      "location": "USA - New York, NY",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Software-Engineer-III---Cloud-Security---FCS-Registration--Hybrid-_R29327-1",
+      "date_posted": "Posted 2 Days Ago",
       "date_scraped": "2026-08-09"
     },
     {
