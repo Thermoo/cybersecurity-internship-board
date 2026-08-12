@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T09:18:58.156618+00:00",
+  "last_updated": "2026-08-12T17:03:59.321408+00:00",
   "internships": [
     {
       "company": "CrowdStrike",
@@ -11,18 +11,50 @@
     },
     {
       "company": "CrowdStrike",
-      "title": "AI Security Solutions Consultant (Remote)",
-      "location": "USA - Remote",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Platform-Professional-Services-Senior-Consultant--AI--Remote-_R28378",
-      "date_posted": "Posted 2 Days Ago",
+      "title": "Threat Researcher II (Remote - IRE, UK or ROU)",
+      "location": "3 Locations",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Ireland---Remote/Threat-Researcher-II--Remote--IRE-_R29367",
+      "date_posted": "Posted Today",
       "date_scraped": "2026-08-12"
     },
     {
       "company": "CrowdStrike",
-      "title": "Regional Sales Manager \u2013 UK Defence & National Security",
-      "location": "United Kingdom - Remote",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Regional-Sales-Manager--Public-Sector--Remote--GBR-_R29168",
-      "date_posted": "Posted 2 Days Ago",
+      "title": "Sr. Engineer II, DevOps, NG-SIEM (Hybrid)",
+      "location": "USA - Austin, TX",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/Sr-Engineer-II--EPICS--NG-SIEM--Hybrid-_R28391",
+      "date_posted": "Posted Today",
+      "date_scraped": "2026-08-12"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Sr. Engineer II, DevOps, NG-SIEM (Hybrid, Bucharest)",
+      "location": "Romania - Bucharest",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Romania---Bucharest/Sr-Engineer-II---EPICS--NG-SIEM--Hybrid-_R28365",
+      "date_posted": "Posted Today",
+      "date_scraped": "2026-08-12"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Sr. Engineer II, DevOps, NG-SIEM (Remote, AUS)",
+      "location": "2 Locations",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Australia---Sydney/Sr-Engineer-II---EPICS--NG-SIEM--Hybrid--Sydney-_R28362",
+      "date_posted": "Posted Today",
+      "date_scraped": "2026-08-12"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Sr. Engineer, DevOps, NG-SIEM (Remote, AUS)",
+      "location": "2 Locations",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Australia---Sydney/Sr-Engineer---Falcon-NG-SIEM--Serverless-Cell-Platform_R29475",
+      "date_posted": "Posted Today",
+      "date_scraped": "2026-08-12"
+    },
+    {
+      "company": "Okta",
+      "title": "Global Alliance Director- PwC ",
+      "location": "Chicago, Illinois; San Francisco, California; Washington, DC",
+      "url": "https://www.okta.com/company/careers/opportunity/8122478?gh_jid=8122478",
+      "date_posted": "2026-08-12",
       "date_scraped": "2026-08-12"
     },
     {
@@ -30,6 +62,22 @@
       "title": "Principal Software Engineer",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7696955?gh_jid=7696955",
+      "date_posted": "2026-08-12",
+      "date_scraped": "2026-08-12"
+    },
+    {
+      "company": "Okta",
+      "title": "Senior Product Marketing Specialist",
+      "location": "Munich, Germany",
+      "url": "https://www.okta.com/company/careers/opportunity/8104905?gh_jid=8104905",
+      "date_posted": "2026-08-12",
+      "date_scraped": "2026-08-12"
+    },
+    {
+      "company": "Okta",
+      "title": "Senior Product Marketing Specialist",
+      "location": "London, United Kingdom",
+      "url": "https://www.okta.com/company/careers/opportunity/7833584?gh_jid=7833584",
       "date_posted": "2026-08-12",
       "date_scraped": "2026-08-12"
     },
@@ -51,6 +99,14 @@
     },
     {
       "company": "Okta",
+      "title": "Senior Software Engineer (Node.js & React.js)",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/8119091?gh_jid=8119091",
+      "date_posted": "2026-08-12",
+      "date_scraped": "2026-08-12"
+    },
+    {
+      "company": "Okta",
       "title": "Site Reliability Engineer II",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8121308?gh_jid=8121308",
@@ -66,9 +122,17 @@
       "date_scraped": "2026-08-12"
     },
     {
+      "company": "Okta",
+      "title": "Staff Full-Stack Engineer ",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/7471202?gh_jid=7471202",
+      "date_posted": "2026-08-12",
+      "date_scraped": "2026-08-12"
+    },
+    {
       "company": "Microsoft",
       "title": "Principal Security Researcher - Microsoft Defender",
-      "location": "Unknown",
+      "location": "IL",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556959366-principal-security-researcher-microsoft-defender-?domain=microsoft.com",
       "date_posted": "2026-08-11",
       "date_scraped": "2026-08-12"
@@ -326,14 +390,6 @@
       "title": "Senior Product Manager - Okta Device Access",
       "location": "Bellevue, Washington; San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8066241?gh_jid=8066241",
-      "date_posted": "2026-08-10",
-      "date_scraped": "2026-08-12"
-    },
-    {
-      "company": "Okta",
-      "title": "Senior Software Engineer, Fullstack",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8119091?gh_jid=8119091",
       "date_posted": "2026-08-10",
       "date_scraped": "2026-08-12"
     },
@@ -900,16 +956,16 @@
     {
       "company": "Okta",
       "title": "Senior Executive Assistant",
-      "location": "New York, New York",
-      "url": "https://www.okta.com/company/careers/opportunity/8109963?gh_jid=8109963",
+      "location": "San Francisco, California",
+      "url": "https://www.okta.com/company/careers/opportunity/8108873?gh_jid=8108873",
       "date_posted": "2026-08-05",
       "date_scraped": "2026-08-12"
     },
     {
       "company": "Okta",
       "title": "Senior Executive Assistant",
-      "location": "San Francisco, California",
-      "url": "https://www.okta.com/company/careers/opportunity/8108873?gh_jid=8108873",
+      "location": "New York, New York",
+      "url": "https://www.okta.com/company/careers/opportunity/8109963?gh_jid=8109963",
       "date_posted": "2026-08-05",
       "date_scraped": "2026-08-12"
     },
@@ -1003,14 +1059,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Research Intern - Firmware Security",
-      "location": "Redmond, WA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955518-research-intern-firmware-security-united-states-washington-redmond?domain=microsoft.com",
-      "date_posted": "2026-08-04",
-      "date_scraped": "2026-08-12"
-    },
-    {
-      "company": "Microsoft",
       "title": "Principal Security Researcher",
       "location": "Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556953096-principal-security-researcher-united-states-washington-redmond?domain=microsoft.com",
@@ -1030,14 +1078,6 @@
       "title": "Senior Applied AI Security Researcher",
       "location": "Redmond, WA, US; Reston, VA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556953755-senior-applied-ai-security-researcher-united-states-washington-redmond?domain=microsoft.com",
-      "date_posted": "2026-08-04",
-      "date_scraped": "2026-08-12"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Software Engineer - Identity",
-      "location": "Dublin, D, IE",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556847455-software-engineer-identity-ireland-dublin-dublin?domain=microsoft.com",
       "date_posted": "2026-08-04",
       "date_scraped": "2026-08-12"
     },
@@ -1780,16 +1820,16 @@
     {
       "company": "Okta",
       "title": "Principal Forward Deployed Engineer",
-      "location": "London, United Kingdom",
-      "url": "https://www.okta.com/company/careers/opportunity/8004037?gh_jid=8004037",
+      "location": "Singapore",
+      "url": "https://www.okta.com/company/careers/opportunity/7980649?gh_jid=7980649",
       "date_posted": "2026-07-31",
       "date_scraped": "2026-08-12"
     },
     {
       "company": "Okta",
       "title": "Principal Forward Deployed Engineer",
-      "location": "Singapore",
-      "url": "https://www.okta.com/company/careers/opportunity/7980649?gh_jid=7980649",
+      "location": "London, United Kingdom",
+      "url": "https://www.okta.com/company/careers/opportunity/8004037?gh_jid=8004037",
       "date_posted": "2026-07-31",
       "date_scraped": "2026-08-12"
     },
@@ -1828,16 +1868,16 @@
     {
       "company": "Okta",
       "title": "Principal Product Manager, IAM Security & Agentic Identity",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://www.okta.com/company/careers/opportunity/8018330?gh_jid=8018330",
+      "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC",
+      "url": "https://www.okta.com/company/careers/opportunity/8009100?gh_jid=8009100",
       "date_posted": "2026-07-31",
       "date_scraped": "2026-08-12"
     },
     {
       "company": "Okta",
       "title": "Principal Product Manager, IAM Security & Agentic Identity",
-      "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC",
-      "url": "https://www.okta.com/company/careers/opportunity/8009100?gh_jid=8009100",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.okta.com/company/careers/opportunity/8018330?gh_jid=8018330",
       "date_posted": "2026-07-31",
       "date_scraped": "2026-08-12"
     },
@@ -1860,6 +1900,14 @@
     {
       "company": "Okta",
       "title": "Principal Software Engineer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.okta.com/company/careers/opportunity/7993541?gh_jid=7993541",
+      "date_posted": "2026-07-31",
+      "date_scraped": "2026-08-12"
+    },
+    {
+      "company": "Okta",
+      "title": "Principal Software Engineer",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7849955?gh_jid=7849955",
       "date_posted": "2026-07-31",
@@ -1870,14 +1918,6 @@
       "title": "Principal Software Engineer",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7781674?gh_jid=7781674",
-      "date_posted": "2026-07-31",
-      "date_scraped": "2026-08-12"
-    },
-    {
-      "company": "Okta",
-      "title": "Principal Software Engineer",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://www.okta.com/company/careers/opportunity/7993541?gh_jid=7993541",
       "date_posted": "2026-07-31",
       "date_scraped": "2026-08-12"
     },
@@ -1940,16 +1980,16 @@
     {
       "company": "Okta",
       "title": "Regional Sales Manager, Enterprise (Auth0)",
-      "location": "Boston, Massachusetts; New Jersey; New York, New York",
-      "url": "https://www.okta.com/company/careers/opportunity/7466556?gh_jid=7466556",
+      "location": "Chicago, Illinois",
+      "url": "https://www.okta.com/company/careers/opportunity/7963925?gh_jid=7963925",
       "date_posted": "2026-07-31",
       "date_scraped": "2026-08-12"
     },
     {
       "company": "Okta",
       "title": "Regional Sales Manager, Enterprise (Auth0)",
-      "location": "Chicago, Illinois",
-      "url": "https://www.okta.com/company/careers/opportunity/7963925?gh_jid=7963925",
+      "location": "Boston, Massachusetts; New Jersey; New York, New York",
+      "url": "https://www.okta.com/company/careers/opportunity/7466556?gh_jid=7466556",
       "date_posted": "2026-07-31",
       "date_scraped": "2026-08-12"
     },
@@ -1958,14 +1998,6 @@
       "title": "Regional Sales Manager - Public Sector",
       "location": "Canberra, Australia",
       "url": "https://www.okta.com/company/careers/opportunity/8081048?gh_jid=8081048",
-      "date_posted": "2026-07-31",
-      "date_scraped": "2026-08-12"
-    },
-    {
-      "company": "Okta",
-      "title": "Revenue Operations Manager, EMEA",
-      "location": "Dublin, Ireland",
-      "url": "https://www.okta.com/company/careers/opportunity/7958206?gh_jid=7958206",
       "date_posted": "2026-07-31",
       "date_scraped": "2026-08-12"
     },
@@ -2333,14 +2365,6 @@
       "company": "Okta",
       "title": "Senior Software Engineer",
       "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8021050?gh_jid=8021050",
-      "date_posted": "2026-07-31",
-      "date_scraped": "2026-08-12"
-    },
-    {
-      "company": "Okta",
-      "title": "Senior Software Engineer",
-      "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312",
       "date_posted": "2026-07-31",
       "date_scraped": "2026-08-12"
@@ -2350,6 +2374,14 @@
       "title": "Senior Software Engineer",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8053679?gh_jid=8053679",
+      "date_posted": "2026-07-31",
+      "date_scraped": "2026-08-12"
+    },
+    {
+      "company": "Okta",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/8021050?gh_jid=8021050",
       "date_posted": "2026-07-31",
       "date_scraped": "2026-08-12"
     },
@@ -2398,14 +2430,6 @@
       "title": "Senior Software Engineer, Frontend (Web)",
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8024173?gh_jid=8024173",
-      "date_posted": "2026-07-31",
-      "date_scraped": "2026-08-12"
-    },
-    {
-      "company": "Okta",
-      "title": "Senior Software Engineer Fullstack",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8018803?gh_jid=8018803",
       "date_posted": "2026-07-31",
       "date_scraped": "2026-08-12"
     },
@@ -2470,14 +2494,6 @@
       "title": "Senior Solutions Engineer,Auth0",
       "location": "Dublin, Ireland",
       "url": "https://www.okta.com/company/careers/opportunity/7976083?gh_jid=7976083",
-      "date_posted": "2026-07-31",
-      "date_scraped": "2026-08-12"
-    },
-    {
-      "company": "Okta",
-      "title": "Senior Solutions Engineer, Okta (Mid Atlantic)",
-      "location": "Maryland; Virginia; Washington, DC",
-      "url": "https://www.okta.com/company/careers/opportunity/7940112?gh_jid=7940112",
       "date_posted": "2026-07-31",
       "date_scraped": "2026-08-12"
     },
@@ -2868,6 +2884,14 @@
     {
       "company": "Okta",
       "title": "Staff Software Engineer ",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.okta.com/company/careers/opportunity/7939834?gh_jid=7939834",
+      "date_posted": "2026-07-31",
+      "date_scraped": "2026-08-12"
+    },
+    {
+      "company": "Okta",
+      "title": "Staff Software Engineer ",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8018310?gh_jid=8018310",
       "date_posted": "2026-07-31",
@@ -2878,14 +2902,6 @@
       "title": "Staff Software Engineer ",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7893046?gh_jid=7893046",
-      "date_posted": "2026-07-31",
-      "date_scraped": "2026-08-12"
-    },
-    {
-      "company": "Okta",
-      "title": "Staff Software Engineer ",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://www.okta.com/company/careers/opportunity/7939834?gh_jid=7939834",
       "date_posted": "2026-07-31",
       "date_scraped": "2026-08-12"
     },
@@ -3427,6 +3443,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "Technical Support Engineer - Entra Identity",
+      "location": "Taipei City, TW",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928381-technical-support-engineer-entra-identity-taiwan-taipei-city-taipei?domain=microsoft.com",
+      "date_posted": "2026-07-14",
+      "date_scraped": "2026-08-12"
+    },
+    {
+      "company": "Microsoft",
       "title": "Datacenter Security Operations Manager",
       "location": "Osaka, Osaka, JP",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556927704-datacenter-security-operations-manager-japan-osaka-fu-osaka?domain=microsoft.com",
@@ -3455,6 +3479,14 @@
       "location": "London, England, GB",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556927509-principal-technical-program-manager-fde-security-check-sc-clearance-united-kingdom-london-london?domain=microsoft.com",
       "date_posted": "2026-07-09",
+      "date_scraped": "2026-08-12"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Enterprise Digital Specialist - Security",
+      "location": "Seoul, Seoul, KR",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556927085-enterprise-digital-specialist-security-korea-seoul-seoul?domain=microsoft.com",
+      "date_posted": "2026-07-08",
       "date_scraped": "2026-08-12"
     },
     {
@@ -3564,16 +3596,16 @@
     {
       "company": "SentinelOne",
       "title": "Staff Full Stack Developer (React/TypeScript, Golang) - Threat Applications, Detections Engineering",
-      "location": "Brno, South Moravian, Czech Republic",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=7762159003",
+      "location": "Prague, Czech Republic",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7762158003",
       "date_posted": "2026-06-08",
       "date_scraped": "2026-08-12"
     },
     {
       "company": "SentinelOne",
       "title": "Staff Full Stack Developer (React/TypeScript, Golang) - Threat Applications, Detections Engineering",
-      "location": "Prague, Czech Republic",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=7762158003",
+      "location": "Brno, South Moravian, Czech Republic",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7762159003",
       "date_posted": "2026-06-08",
       "date_scraped": "2026-08-12"
     },
@@ -3636,8 +3668,8 @@
     {
       "company": "SentinelOne",
       "title": "Senior Software Engineer - Low Level C++ - Linux & Cloud Security",
-      "location": "Slovakia",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=7561107003",
+      "location": "Brno, South Moravian, Czech Republic",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7561108003",
       "date_posted": "2025-12-15",
       "date_scraped": "2026-08-12"
     },
@@ -3652,16 +3684,16 @@
     {
       "company": "SentinelOne",
       "title": "Senior Software Engineer - Low Level C++ - Linux & Cloud Security",
-      "location": "Brno, South Moravian, Czech Republic",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=7561108003",
+      "location": "Czech Republic",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7561109003",
       "date_posted": "2025-12-15",
       "date_scraped": "2026-08-12"
     },
     {
       "company": "SentinelOne",
       "title": "Senior Software Engineer - Low Level C++ - Linux & Cloud Security",
-      "location": "Czech Republic",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=7561109003",
+      "location": "Slovakia",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7561107003",
       "date_posted": "2025-12-15",
       "date_scraped": "2026-08-12"
     },
@@ -3671,14 +3703,6 @@
       "location": "United States - Remote",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=6665700003",
       "date_posted": "2025-10-30",
-      "date_scraped": "2026-08-12"
-    },
-    {
-      "company": "SentinelOne",
-      "title": "Staff Windows Low Level C++ Engineer - Endpoint security",
-      "location": "Prague, Czech Republic",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=6647495003",
-      "date_posted": "2025-07-14",
       "date_scraped": "2026-08-12"
     },
     {
@@ -3700,6 +3724,14 @@
     {
       "company": "SentinelOne",
       "title": "Staff Windows Low Level C++ Engineer - Endpoint security",
+      "location": "Prague, Czech Republic",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=6647495003",
+      "date_posted": "2025-07-14",
+      "date_scraped": "2026-08-12"
+    },
+    {
+      "company": "SentinelOne",
+      "title": "Staff Windows Low Level C++ Engineer - Endpoint security",
       "location": "Slovakia",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=6639641003",
       "date_posted": "2025-07-09",
@@ -3708,16 +3740,16 @@
     {
       "company": "SentinelOne",
       "title": "Staff Windows Low Level C++ Engineer - Endpoint security",
-      "location": "Czech Republic",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=6629340003",
+      "location": "Poland",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=6639668003",
       "date_posted": "2025-07-09",
       "date_scraped": "2026-08-12"
     },
     {
       "company": "SentinelOne",
       "title": "Staff Windows Low Level C++ Engineer - Endpoint security",
-      "location": "Poland",
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=6639668003",
+      "location": "Czech Republic",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=6629340003",
       "date_posted": "2025-07-09",
       "date_scraped": "2026-08-12"
     },
