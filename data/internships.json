@@ -1,12 +1,20 @@
 {
-  "last_updated": "2026-08-16T01:43:19.737184+00:00",
+  "last_updated": "2026-08-16T08:36:47.705650+00:00",
   "internships": [
+    {
+      "company": "CrowdStrike",
+      "title": "Security Advisor, Falcon Complete",
+      "location": "6 Locations",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Australia---Remote-WA/Security-Advisor--Falcon-Complete_R29592",
+      "date_posted": "Posted Yesterday",
+      "date_scraped": "2026-08-16"
+    },
     {
       "company": "CrowdStrike",
       "title": "Staff AI Security Scientist",
       "location": "USA - Remote",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Staff-AI-Security-Scientist_R29827",
-      "date_posted": "Posted Yesterday",
+      "date_posted": "Posted 2 Days Ago",
       "date_scraped": "2026-08-16"
     },
     {
@@ -14,15 +22,7 @@
       "title": "Security Advisor II, Falcon Complete (Remote)",
       "location": "USA - Remote",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Security-Advisor-II--Falcon-Complete--Remote-_R29652",
-      "date_posted": "Posted Yesterday",
-      "date_scraped": "2026-08-16"
-    },
-    {
-      "company": "CrowdStrike",
-      "title": "Security Advisor, Falcon Complete",
-      "location": "6 Locations",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Australia---Remote-WA/Security-Advisor--Falcon-Complete_R29592",
-      "date_posted": "Posted Today",
+      "date_posted": "Posted 2 Days Ago",
       "date_scraped": "2026-08-16"
     },
     {
@@ -702,14 +702,6 @@
       "title": "Security Researcher II /Senior Security Researcher - Microsoft Defender (Multiple Roles)",
       "location": "IL; Herzliya, Tel Aviv District, IL; Tel Aviv-Yafo, Tel Aviv District, IL; \u05d1\"\u05e9, South District, IL; Haifa, Haifa District, IL; Nazareth, North District, IL",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556959639-security-researcher-ii-senior-security-researcher-microsoft-defender-multiple-roles--israel-multiple-locations-multiple-locations?domain=microsoft.com",
-      "date_posted": "2026-08-10",
-      "date_scraped": "2026-08-16"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Senior Director, Product Marketing for Microsoft Purview Data Security & Compliance",
-      "location": "Redmond, WA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556932503-senior-director-product-marketing-for-microsoft-purview-data-security-compliance-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-08-10",
       "date_scraped": "2026-08-16"
     },
@@ -3342,14 +3334,6 @@
       "title": "Customer Success-FastTrack Identity",
       "location": "CR",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556943834-customer-success-fasttrack-identity-costa-rica-multiple-locations-multiple-locations?domain=microsoft.com",
-      "date_posted": "2026-07-29",
-      "date_scraped": "2026-08-16"
-    },
-    {
-      "company": "Microsoft",
-      "title": "AI Security Researcher II",
-      "location": "Redmond, WA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556943706-ai-security-researcher-ii-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-07-29",
       "date_scraped": "2026-08-16"
     },
