@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-08-29T06:38:49.973271+00:00",
+  "last_updated": "2026-08-29T13:46:41.984989+00:00",
   "internships": [
+    {
+      "company": "CrowdStrike",
+      "title": "Software Engineer III - Cloud Security - FCS Registration (Hybrid)",
+      "location": "USA - New York, NY",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Software-Engineer-III---Cloud-Security---FCS-Registration--Hybrid-_R29327-1",
+      "date_posted": "Posted Yesterday",
+      "date_scraped": "2026-08-29"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Engineering, Manager - Data Ingestion, NG-SIEM (Hybrid)",
+      "location": "USA - New York, NY",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Engineering--Manager---Data-Ingestion--NG-SIEM--Hybrid-_R29629",
+      "date_posted": "Posted 3 Days Ago",
+      "date_scraped": "2026-08-29"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Security Researcher (Remote)",
+      "location": "USA - Remote",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Security-Researcher--Remote-_R29689",
+      "date_posted": "Posted 3 Days Ago",
+      "date_scraped": "2026-08-29"
+    },
     {
       "company": "Microsoft",
       "title": "Datacenter Security Operations Manager",
@@ -3179,14 +3203,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Principal Product Manager - Consumer Identity & User Ecosystem, Microsoft AI Experiences",
-      "location": "New York, NY, US; Mountain View, CA, US; Redmond, WA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962246-principal-product-manager-consumer-identity-user-ecosystem-microsoft-ai-experiences-united-states-new-york-new-york?domain=microsoft.com",
-      "date_posted": "2026-08-17",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
       "title": "Security Researcher II",
       "location": "Redmond, WA, US; US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556958094-security-researcher-ii-united-states-washington-redmond?domain=microsoft.com",
@@ -3332,7 +3348,7 @@
     {
       "company": "Microsoft",
       "title": "Data and AI Security Consultant",
-      "location": "Unknown",
+      "location": "Hyderabad, TS, IN",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556942264-data-and-ai-security-consultant-india-telangana-hyderabad?domain=microsoft.com",
       "date_posted": "2026-08-07",
       "date_scraped": "2026-08-29"
@@ -3867,10 +3883,6 @@
     }
   ],
   "failed_scrapers": [
-    {
-      "company": "CrowdStrike",
-      "error": "Expecting value: line 1 column 1 (char 0)"
-    },
     {
       "company": "Rapid7",
       "error": "422 Client Error: Unprocessable Entity for url: https://rapid7.wd5.myworkdayjobs.com/wday/cxs/rapid7/rapid7-Careers/jobs"
