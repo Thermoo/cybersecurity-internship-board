@@ -1,28 +1,36 @@
 {
-  "last_updated": "2026-08-30T04:51:40.130957+00:00",
+  "last_updated": "2026-08-30T13:44:29.180867+00:00",
   "internships": [
+    {
+      "company": "CrowdStrike",
+      "title": "Sr. Engineer II, DevOps, NG-SIEM (Hybrid)",
+      "location": "USA - Austin, TX",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/Sr-Engineer-II--EPICS--NG-SIEM--Hybrid-_R28391",
+      "date_posted": "Posted Today",
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Sr. Engineer II, DevOps, NG-SIEM (Remote, AUS)",
+      "location": "2 Locations",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Australia---Sydney/Sr-Engineer-II---EPICS--NG-SIEM--Hybrid--Sydney-_R28362",
+      "date_posted": "Posted Today",
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Sr. Engineer, DevOps, NG-SIEM (Remote, AUS)",
+      "location": "2 Locations",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Australia---Sydney/Sr-Engineer---Falcon-NG-SIEM--Serverless-Cell-Platform_R29475",
+      "date_posted": "Posted Today",
+      "date_scraped": "2026-08-30"
+    },
     {
       "company": "CrowdStrike",
       "title": "Software Engineer III - Cloud Security - FCS Registration (Hybrid)",
       "location": "USA - New York, NY",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Software-Engineer-III---Cloud-Security---FCS-Registration--Hybrid-_R29327-1",
-      "date_posted": "Posted Yesterday",
-      "date_scraped": "2026-08-30"
-    },
-    {
-      "company": "CrowdStrike",
-      "title": "Engineering, Manager - Data Ingestion, NG-SIEM (Hybrid)",
-      "location": "USA - New York, NY",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Engineering--Manager---Data-Ingestion--NG-SIEM--Hybrid-_R29629",
-      "date_posted": "Posted 3 Days Ago",
-      "date_scraped": "2026-08-30"
-    },
-    {
-      "company": "CrowdStrike",
-      "title": "Security Researcher (Remote)",
-      "location": "USA - Remote",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Security-Researcher--Remote-_R29689",
-      "date_posted": "Posted 3 Days Ago",
+      "date_posted": "Posted 2 Days Ago",
       "date_scraped": "2026-08-30"
     },
     {
@@ -3226,14 +3234,6 @@
       "date_scraped": "2026-08-30"
     },
     {
-      "company": "Microsoft",
-      "title": "Security Researcher II",
-      "location": "Redmond, WA, US; US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556958094-security-researcher-ii-united-states-washington-redmond?domain=microsoft.com",
-      "date_posted": "2026-08-14",
-      "date_scraped": "2026-08-30"
-    },
-    {
       "company": "SentinelOne",
       "title": "Director, Product Management \u2013 Cloud Security",
       "location": "United States - Remote",
@@ -3527,22 +3527,6 @@
       "location": "Hillsboro, OR, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556947838-soc-hw-digital-analog-or-pnp-validation-engineer-united-states-oregon-hillsboro?domain=microsoft.com",
       "date_posted": "2026-07-31",
-      "date_scraped": "2026-08-30"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Principal Security Engineer",
-      "location": "US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951953-principal-security-engineer-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
-      "date_posted": "2026-07-30",
-      "date_scraped": "2026-08-30"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Director, Forward Deployed Security",
-      "location": "US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951412-director-forward-deployed-security-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
-      "date_posted": "2026-07-30",
       "date_scraped": "2026-08-30"
     },
     {
