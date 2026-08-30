@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T19:21:29.746878+00:00",
+  "last_updated": "2026-08-30T04:51:40.130957+00:00",
   "internships": [
     {
       "company": "CrowdStrike",
@@ -7,7 +7,7 @@
       "location": "USA - New York, NY",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Software-Engineer-III---Cloud-Security---FCS-Registration--Hybrid-_R29327-1",
       "date_posted": "Posted Yesterday",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "CrowdStrike",
@@ -15,7 +15,7 @@
       "location": "USA - New York, NY",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Engineering--Manager---Data-Ingestion--NG-SIEM--Hybrid-_R29629",
       "date_posted": "Posted 3 Days Ago",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "CrowdStrike",
@@ -23,7 +23,23 @@
       "location": "USA - Remote",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Security-Researcher--Remote-_R29689",
       "date_posted": "Posted 3 Days Ago",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Principal Security Operations Engineer",
+      "location": "Redmond, WA, US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983224-principal-security-operations-engineer-united-states-washington-redmond?domain=microsoft.com",
+      "date_posted": "2026-08-29",
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Senior Security Operations Engineer",
+      "location": "Redmond, WA, US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983225-senior-security-operations-engineer-united-states-washington-redmond?domain=microsoft.com",
+      "date_posted": "2026-08-29",
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -31,7 +47,7 @@
       "location": "Frankfurt am Main, HE, DE",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556982497-datacenter-security-operations-manager-germany-hessen-frankfurt?domain=microsoft.com",
       "date_posted": "2026-08-28",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -39,7 +55,7 @@
       "location": "Singapore",
       "url": "https://www.okta.com/company/careers/opportunity/8146575?gh_jid=8146575",
       "date_posted": "2026-08-28",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -47,7 +63,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8073082?gh_jid=8073082",
       "date_posted": "2026-08-28",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -55,7 +71,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8158010?gh_jid=8158010",
       "date_posted": "2026-08-28",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -63,7 +79,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8139717?gh_jid=8139717",
       "date_posted": "2026-08-28",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -71,7 +87,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8139707?gh_jid=8139707",
       "date_posted": "2026-08-28",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -79,7 +95,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8165103?gh_jid=8165103",
       "date_posted": "2026-08-28",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -87,7 +103,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7821050?gh_jid=7821050",
       "date_posted": "2026-08-28",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -95,7 +111,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8132596?gh_jid=8132596",
       "date_posted": "2026-08-28",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -103,7 +119,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8164066?gh_jid=8164066",
       "date_posted": "2026-08-28",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -111,7 +127,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8163660?gh_jid=8163660",
       "date_posted": "2026-08-28",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -119,7 +135,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8165163?gh_jid=8165163",
       "date_posted": "2026-08-28",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -127,39 +143,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8159611?gh_jid=8159611",
       "date_posted": "2026-08-28",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Sr Digital Solution Area Specialist - Security",
-      "location": "Bengaluru, KA, IN; Chennai, TN, IN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556849327-sr-digital-solution-area-specialist-security-india-karnataka-bangalore?domain=microsoft.com",
-      "date_posted": "2026-08-27",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Senior Applied Threat Intelligence Manager",
-      "location": "Redmond, WA, US; Reston, VA, US; Mountain View, CA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982010-senior-applied-threat-intelligence-manager-united-states-washington-redmond?domain=microsoft.com",
-      "date_posted": "2026-08-27",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Solution Area Specialists - Cyber Security",
-      "location": "Bengaluru, KA, IN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556918901-solution-area-specialists-cyber-security-india-karnataka-bangalore?domain=microsoft.com",
-      "date_posted": "2026-08-27",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Regional Security Operations Manager - CTJ - Poly",
-      "location": "Jessup, MD, US; Manassas, VA, US; San Antonio, TX, US; Denver, CO, US; Cheyenne, WY, US; Warrenton, VA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979169-regional-security-operations-manager-ctj-poly-united-states-maryland-annapolis-junction?domain=microsoft.com",
-      "date_posted": "2026-08-27",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -167,7 +151,39 @@
       "location": "Atlanta, GA, US; Fargo, ND, US; Irving, TX, US; Houston, TX, US; Charlotte, NC, US; Austin, TX, US; Chicago, IL, US; Denver, CO, US; Phoenix, AZ, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556980187-senior-digital-solution-area-specialist-security-united-states-georgia-atlanta?domain=microsoft.com",
       "date_posted": "2026-08-27",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Regional Security Operations Manager - CTJ - Poly",
+      "location": "Jessup, MD, US; Manassas, VA, US; San Antonio, TX, US; Denver, CO, US; Cheyenne, WY, US; Warrenton, VA, US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979169-regional-security-operations-manager-ctj-poly-united-states-maryland-annapolis-junction?domain=microsoft.com",
+      "date_posted": "2026-08-27",
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Sr Digital Solution Area Specialist - Security",
+      "location": "Bengaluru, KA, IN; Chennai, TN, IN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556849327-sr-digital-solution-area-specialist-security-india-karnataka-bangalore?domain=microsoft.com",
+      "date_posted": "2026-08-27",
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Solution Area Specialists - Cyber Security",
+      "location": "Bengaluru, KA, IN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556918901-solution-area-specialists-cyber-security-india-karnataka-bangalore?domain=microsoft.com",
+      "date_posted": "2026-08-27",
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Senior Applied Threat Intelligence Manager",
+      "location": "Redmond, WA, US; Reston, VA, US; Mountain View, CA, US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982010-senior-applied-threat-intelligence-manager-united-states-washington-redmond?domain=microsoft.com",
+      "date_posted": "2026-08-27",
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -175,7 +191,7 @@
       "location": "Sydney, NSW, AU; Melbourne, VIC, AU; Auckland, Auckland, NZ; Sydney, NSW, AU; Auckland, Auckland, NZ; Melbourne, VIC, AU",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556981474-senior-security-sales-specialist-australia-new-south-wales-sydney?domain=microsoft.com",
       "date_posted": "2026-08-27",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -183,7 +199,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8001886?gh_jid=8001886",
       "date_posted": "2026-08-27",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -191,7 +207,7 @@
       "location": "Vancouver, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7904978?gh_jid=7904978",
       "date_posted": "2026-08-27",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -199,7 +215,7 @@
       "location": "Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8077517?gh_jid=8077517",
       "date_posted": "2026-08-27",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -207,7 +223,7 @@
       "location": "Los Angeles, California; San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8129269?gh_jid=8129269",
       "date_posted": "2026-08-27",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -215,7 +231,7 @@
       "location": "Dublin, Ireland",
       "url": "https://www.okta.com/company/careers/opportunity/8043021?gh_jid=8043021",
       "date_posted": "2026-08-27",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -223,7 +239,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8056315?gh_jid=8056315",
       "date_posted": "2026-08-27",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -231,7 +247,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7289458?gh_jid=7289458",
       "date_posted": "2026-08-27",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -239,7 +255,7 @@
       "location": "Minnesota",
       "url": "https://www.okta.com/company/careers/opportunity/7536447?gh_jid=7536447",
       "date_posted": "2026-08-27",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -247,7 +263,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8109399?gh_jid=8109399",
       "date_posted": "2026-08-27",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -255,7 +271,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8160050?gh_jid=8160050",
       "date_posted": "2026-08-27",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -263,7 +279,7 @@
       "location": "Texas",
       "url": "https://www.okta.com/company/careers/opportunity/8054427?gh_jid=8054427",
       "date_posted": "2026-08-27",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -271,15 +287,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7793061?gh_jid=7793061",
       "date_posted": "2026-08-27",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Senior SoC HW (PnP/Functional) Validation Engineer",
-      "location": "Hillsboro, OR, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556899532-senior-soc-hw-pnp-functional-validation-engineer-united-states-oregon-hillsboro?domain=microsoft.com",
-      "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -287,15 +295,7 @@
       "location": "US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556978519-digital-specialist-manager-security-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Data Center Security Operations Manager - DSOM",
-      "location": "Atlanta, GA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979168-data-center-security-operations-manager-dsom-united-states-georgia-atlanta?domain=microsoft.com",
-      "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -303,7 +303,7 @@
       "location": "Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556955543-principal-hardware-security-platform-engineer-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -311,7 +311,7 @@
       "location": "Cairo, Cairo Governorate, EG; EG",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556978295-sr-solution-engineer-security-egypt-cairo-cairo?domain=microsoft.com",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -319,7 +319,7 @@
       "location": "SG; SG",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556956897-partner-solution-sales-security-smb-asean-singapore-singapore-singapore?domain=microsoft.com",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -327,7 +327,23 @@
       "location": "SG",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556978843-activation-gtm-director-security-singapore-singapore-singapore?domain=microsoft.com",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Senior SoC HW (PnP/Functional) Validation Engineer",
+      "location": "Hillsboro, OR, US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556899532-senior-soc-hw-pnp-functional-validation-engineer-united-states-oregon-hillsboro?domain=microsoft.com",
+      "date_posted": "2026-08-26",
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Data Center Security Operations Manager - DSOM",
+      "location": "Atlanta, GA, US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979168-data-center-security-operations-manager-dsom-united-states-georgia-atlanta?domain=microsoft.com",
+      "date_posted": "2026-08-26",
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -335,7 +351,7 @@
       "location": "Chicago, Illinois",
       "url": "https://www.okta.com/company/careers/opportunity/8144827?gh_jid=8144827",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -343,7 +359,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7587916?gh_jid=7587916",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -351,7 +367,7 @@
       "location": "New York, New York; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8160475?gh_jid=8160475",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -359,7 +375,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8031281?gh_jid=8031281",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -367,7 +383,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8031355?gh_jid=8031355",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -375,7 +391,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8159623?gh_jid=8159623",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -383,7 +399,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8157885?gh_jid=8157885",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -391,7 +407,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7741663?gh_jid=7741663",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -399,7 +415,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8137956?gh_jid=8137956",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -407,7 +423,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8154385?gh_jid=8154385",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -415,7 +431,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8155512?gh_jid=8155512",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -423,7 +439,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8137951?gh_jid=8137951",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -431,7 +447,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8158879?gh_jid=8158879",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -439,7 +455,7 @@
       "location": "Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8078764?gh_jid=8078764",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -447,7 +463,7 @@
       "location": "Maryland; Virginia; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/7575679?gh_jid=7575679",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -455,7 +471,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/6687504?gh_jid=6687504",
       "date_posted": "2026-08-26",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -463,7 +479,7 @@
       "location": "Redmond, WA, US; Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556962089-principal-service-engineer-security-focused-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-08-25",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -471,7 +487,7 @@
       "location": "Santa Clara, CA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556937162-principal-security-engineer-united-states-california-santa-clara?domain=microsoft.com",
       "date_posted": "2026-08-25",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -479,7 +495,7 @@
       "location": "Redmond, WA, US; Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556943181-principal-security-research-manager-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-08-25",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -487,7 +503,7 @@
       "location": "US; US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556972691-principal-security-engineer-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-08-25",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -495,7 +511,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8155883?gh_jid=8155883",
       "date_posted": "2026-08-25",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -503,7 +519,7 @@
       "location": "Chicago, Illinois",
       "url": "https://www.okta.com/company/careers/opportunity/8145325?gh_jid=8145325",
       "date_posted": "2026-08-25",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -511,7 +527,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8056209?gh_jid=8056209",
       "date_posted": "2026-08-25",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -519,7 +535,7 @@
       "location": "Dublin, Ireland",
       "url": "https://www.okta.com/company/careers/opportunity/8050798?gh_jid=8050798",
       "date_posted": "2026-08-25",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -527,7 +543,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8155879?gh_jid=8155879",
       "date_posted": "2026-08-25",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -535,7 +551,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7128746?gh_jid=7128746",
       "date_posted": "2026-08-25",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -543,7 +559,7 @@
       "location": "Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8155421?gh_jid=8155421",
       "date_posted": "2026-08-25",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -551,7 +567,7 @@
       "location": "Bellevue, Washington",
       "url": "https://www.okta.com/company/careers/opportunity/7610901?gh_jid=7610901",
       "date_posted": "2026-08-25",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -559,7 +575,7 @@
       "location": "Bellevue, Washington",
       "url": "https://www.okta.com/company/careers/opportunity/7591606?gh_jid=7591606",
       "date_posted": "2026-08-25",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -567,7 +583,7 @@
       "location": "Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8069707?gh_jid=8069707",
       "date_posted": "2026-08-25",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -575,7 +591,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8003023?gh_jid=8003023",
       "date_posted": "2026-08-25",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -583,7 +599,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8157043?gh_jid=8157043",
       "date_posted": "2026-08-25",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -591,7 +607,7 @@
       "location": "Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8097489?gh_jid=8097489",
       "date_posted": "2026-08-25",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -599,23 +615,7 @@
       "location": "Israel",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7843276003",
       "date_posted": "2026-08-25",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Principal SOC Modeling Architect",
-      "location": "Redmond, WA, US; Hillsboro, OR, US; Mountain View, CA, US; Austin, TX, US; Raleigh, NC, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972678-principal-soc-modeling-architect-united-states-washington-redmond?domain=microsoft.com",
-      "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Cloud Solution Architecture- Cloud Security",
-      "location": "Abu Dhabi, Abu Dhabi, AE",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556943657-cloud-solution-architecture-cloud-security-united-arab-emirates-abu-dhabi-abu-dhabi?domain=microsoft.com",
-      "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -623,7 +623,7 @@
       "location": "Mountain View, CA, US; Sacramento, CA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556930082-principal-soc-circuit-architect-united-states-california-mountain-view?domain=microsoft.com",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -631,7 +631,23 @@
       "location": "Redmond, WA, US; Mountain View, CA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556941887-principal-security-engineer-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Cloud Solution Architecture- Cloud Security",
+      "location": "Abu Dhabi, Abu Dhabi, AE",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556943657-cloud-solution-architecture-cloud-security-united-arab-emirates-abu-dhabi-abu-dhabi?domain=microsoft.com",
+      "date_posted": "2026-08-24",
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Principal SOC Modeling Architect",
+      "location": "Redmond, WA, US; Hillsboro, OR, US; Mountain View, CA, US; Austin, TX, US; Raleigh, NC, US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972678-principal-soc-modeling-architect-united-states-washington-redmond?domain=microsoft.com",
+      "date_posted": "2026-08-24",
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -639,7 +655,7 @@
       "location": "Madrid, Spain",
       "url": "https://www.okta.com/company/careers/opportunity/8079108?gh_jid=8079108",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -647,7 +663,7 @@
       "location": "Tokyo, Japan",
       "url": "https://www.okta.com/company/careers/opportunity/7439531?gh_jid=7439531",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -655,7 +671,7 @@
       "location": "London, United Kingdom",
       "url": "https://www.okta.com/company/careers/opportunity/8093704?gh_jid=8093704",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -663,7 +679,7 @@
       "location": "Tokyo, Japan",
       "url": "https://www.okta.com/company/careers/opportunity/8079078?gh_jid=8079078",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -671,7 +687,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8003734?gh_jid=8003734",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -679,7 +695,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8106012?gh_jid=8106012",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -687,7 +703,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8011328?gh_jid=8011328",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -695,7 +711,7 @@
       "location": "Connecticut; New Jersey; New York, New York",
       "url": "https://www.okta.com/company/careers/opportunity/8020585?gh_jid=8020585",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -703,7 +719,7 @@
       "location": "Los Angeles, California; San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8119188?gh_jid=8119188",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -711,7 +727,7 @@
       "location": "Connecticut; Massachusetts; New York, New York; Pennsylvania; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/7774234?gh_jid=7774234",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -719,7 +735,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7821640?gh_jid=7821640",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -727,7 +743,7 @@
       "location": "Chicago, Illinois",
       "url": "https://www.okta.com/company/careers/opportunity/8097799?gh_jid=8097799",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -735,7 +751,7 @@
       "location": "Bellevue, Washington",
       "url": "https://www.okta.com/company/careers/opportunity/5168141?gh_jid=5168141",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -743,7 +759,7 @@
       "location": "Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/7013535?gh_jid=7013535",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -751,7 +767,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7008470?gh_jid=7008470",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -759,7 +775,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8068504?gh_jid=8068504",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -767,7 +783,7 @@
       "location": "Dublin, Ireland; London, United Kingdom",
       "url": "https://www.okta.com/company/careers/opportunity/8099061?gh_jid=8099061",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -775,7 +791,7 @@
       "location": "Manila, Philippines",
       "url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -783,7 +799,7 @@
       "location": "New York, New York; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8088417?gh_jid=8088417",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -791,7 +807,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois",
       "url": "https://www.okta.com/company/careers/opportunity/8128848?gh_jid=8128848",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -799,7 +815,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8036149?gh_jid=8036149",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -807,7 +823,7 @@
       "location": "Dublin, Ireland",
       "url": "https://www.okta.com/company/careers/opportunity/8125465?gh_jid=8125465",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -815,7 +831,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8070157?gh_jid=8070157",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -823,7 +839,7 @@
       "location": "Dublin, Ireland",
       "url": "https://www.okta.com/company/careers/opportunity/8048254?gh_jid=8048254",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -831,7 +847,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8072698?gh_jid=8072698",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -839,7 +855,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7770733?gh_jid=7770733",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -847,7 +863,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8098282?gh_jid=8098282",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -855,7 +871,7 @@
       "location": "Tokyo, Japan",
       "url": "https://www.okta.com/company/careers/opportunity/8098292?gh_jid=8098292",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -863,7 +879,7 @@
       "location": "Bellevue, Washington; San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8031522?gh_jid=8031522",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -871,7 +887,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8013137?gh_jid=8013137",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -879,7 +895,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8022237?gh_jid=8022237",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -887,7 +903,7 @@
       "location": "San Francisco, California; Seattle, Washington",
       "url": "https://www.okta.com/company/careers/opportunity/8107045?gh_jid=8107045",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -895,7 +911,7 @@
       "location": "Tokyo, Japan",
       "url": "https://www.okta.com/company/careers/opportunity/8080906?gh_jid=8080906",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -903,7 +919,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8036390?gh_jid=8036390",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -911,7 +927,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7783603?gh_jid=7783603",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -919,7 +935,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7991116?gh_jid=7991116",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -927,7 +943,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7606225?gh_jid=7606225",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -935,7 +951,7 @@
       "location": "Tennessee",
       "url": "https://www.okta.com/company/careers/opportunity/8022189?gh_jid=8022189",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -943,7 +959,7 @@
       "location": "London, United Kingdom",
       "url": "https://www.okta.com/company/careers/opportunity/8059294?gh_jid=8059294",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -951,7 +967,7 @@
       "location": "New York, New York",
       "url": "https://www.okta.com/company/careers/opportunity/8007650?gh_jid=8007650",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -959,7 +975,7 @@
       "location": "S\u00e3o Paulo, Brazil",
       "url": "https://www.okta.com/company/careers/opportunity/7555117?gh_jid=7555117",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -967,7 +983,7 @@
       "location": "London, United Kingdom",
       "url": "https://www.okta.com/company/careers/opportunity/8018533?gh_jid=8018533",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -975,7 +991,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7442186?gh_jid=7442186",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -983,7 +999,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8080748?gh_jid=8080748",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -991,7 +1007,7 @@
       "location": "Tokyo, Japan",
       "url": "https://www.okta.com/company/careers/opportunity/8129579?gh_jid=8129579",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -999,7 +1015,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8106844?gh_jid=8106844",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1007,7 +1023,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7982838?gh_jid=7982838",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1015,7 +1031,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8075386?gh_jid=8075386",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1023,7 +1039,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8064490?gh_jid=8064490",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1031,7 +1047,7 @@
       "location": "Chicago, Illinois; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8122478?gh_jid=8122478",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1039,7 +1055,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8093199?gh_jid=8093199",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1047,7 +1063,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8099186?gh_jid=8099186",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1055,7 +1071,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8072078?gh_jid=8072078",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1063,7 +1079,7 @@
       "location": "Singapore",
       "url": "https://www.okta.com/company/careers/opportunity/8001982?gh_jid=8001982",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1071,7 +1087,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7838837?gh_jid=7838837",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1079,7 +1095,7 @@
       "location": "Germany",
       "url": "https://www.okta.com/company/careers/opportunity/8095974?gh_jid=8095974",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1087,7 +1103,7 @@
       "location": "London, United Kingdom",
       "url": "https://www.okta.com/company/careers/opportunity/7941715?gh_jid=7941715",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1095,7 +1111,7 @@
       "location": "Chicago, Illinois",
       "url": "https://www.okta.com/company/careers/opportunity/8080578?gh_jid=8080578",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1103,7 +1119,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8071500?gh_jid=8071500",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1111,7 +1127,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8124367?gh_jid=8124367",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1119,7 +1135,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8107083?gh_jid=8107083",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1127,7 +1143,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8007062?gh_jid=8007062",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1135,7 +1151,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7862418?gh_jid=7862418",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1143,7 +1159,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8077649?gh_jid=8077649",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1151,7 +1167,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7845385?gh_jid=7845385",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1159,7 +1175,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/7977080?gh_jid=7977080",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1167,7 +1183,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7613460?gh_jid=7613460",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1175,7 +1191,7 @@
       "location": "Dublin, Ireland",
       "url": "https://www.okta.com/company/careers/opportunity/8088268?gh_jid=8088268",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1183,7 +1199,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8055100?gh_jid=8055100",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1191,7 +1207,7 @@
       "location": "Chicago, Illinois; Colorado; Texas; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8142155?gh_jid=8142155",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1199,7 +1215,7 @@
       "location": "Sydney, Australia",
       "url": "https://www.okta.com/company/careers/opportunity/8036362?gh_jid=8036362",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1207,7 +1223,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8056218?gh_jid=8056218",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1215,7 +1231,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8074824?gh_jid=8074824",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1223,7 +1239,7 @@
       "location": "Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/7607491?gh_jid=7607491",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1231,7 +1247,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7648974?gh_jid=7648974",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1239,7 +1255,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8103955?gh_jid=8103955",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1247,7 +1263,7 @@
       "location": "Singapore",
       "url": "https://www.okta.com/company/careers/opportunity/7980649?gh_jid=7980649",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1255,7 +1271,7 @@
       "location": "London, United Kingdom",
       "url": "https://www.okta.com/company/careers/opportunity/8004037?gh_jid=8004037",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1263,7 +1279,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7961339?gh_jid=7961339",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1271,7 +1287,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8015002?gh_jid=8015002",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1279,7 +1295,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8002576?gh_jid=8002576",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1287,7 +1303,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7781674?gh_jid=7781674",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1295,7 +1311,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7696955?gh_jid=7696955",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1303,7 +1319,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8064188?gh_jid=8064188",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1311,7 +1327,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8071508?gh_jid=8071508",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1319,7 +1335,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8007071?gh_jid=8007071",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1327,7 +1343,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8139694?gh_jid=8139694",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1335,7 +1351,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8007078?gh_jid=8007078",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1343,7 +1359,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8127234?gh_jid=8127234",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1351,7 +1367,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8007080?gh_jid=8007080",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1359,7 +1375,7 @@
       "location": "San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8069537?gh_jid=8069537",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1367,7 +1383,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8072548?gh_jid=8072548",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1375,7 +1391,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8072528?gh_jid=8072528",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1383,7 +1399,7 @@
       "location": "Melbourne, Australia",
       "url": "https://www.okta.com/company/careers/opportunity/7975472?gh_jid=7975472",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1391,7 +1407,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8056207?gh_jid=8056207",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1399,7 +1415,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7897264?gh_jid=7897264",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1407,7 +1423,7 @@
       "location": "Boston, Massachusetts; New Jersey; New York, New York",
       "url": "https://www.okta.com/company/careers/opportunity/7466556?gh_jid=7466556",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1415,7 +1431,7 @@
       "location": "Chicago, Illinois",
       "url": "https://www.okta.com/company/careers/opportunity/7963925?gh_jid=7963925",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1423,7 +1439,7 @@
       "location": "Melbourne, Australia",
       "url": "https://www.okta.com/company/careers/opportunity/8095465?gh_jid=8095465",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1431,7 +1447,7 @@
       "location": "Sydney, Australia",
       "url": "https://www.okta.com/company/careers/opportunity/8095459?gh_jid=8095459",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1439,7 +1455,7 @@
       "location": "Canberra, Australia",
       "url": "https://www.okta.com/company/careers/opportunity/8081048?gh_jid=8081048",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1447,7 +1463,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8066278?gh_jid=8066278",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1455,7 +1471,7 @@
       "location": "Manila, Philippines",
       "url": "https://www.okta.com/company/careers/opportunity/8110755?gh_jid=8110755",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1463,7 +1479,7 @@
       "location": "Tokyo, Japan",
       "url": "https://www.okta.com/company/careers/opportunity/8102281?gh_jid=8102281",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1471,7 +1487,7 @@
       "location": "Sydney, Australia",
       "url": "https://www.okta.com/company/careers/opportunity/7936541?gh_jid=7936541",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1479,7 +1495,7 @@
       "location": "Bellevue, Washington",
       "url": "https://www.okta.com/company/careers/opportunity/7013711?gh_jid=7013711",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1487,7 +1503,7 @@
       "location": "Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/7013646?gh_jid=7013646",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1495,7 +1511,7 @@
       "location": "Dublin, Ireland",
       "url": "https://www.okta.com/company/careers/opportunity/7920579?gh_jid=7920579",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1503,7 +1519,7 @@
       "location": "Dublin, Ireland",
       "url": "https://www.okta.com/company/careers/opportunity/7645881?gh_jid=7645881",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1511,7 +1527,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7013721?gh_jid=7013721",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1519,7 +1535,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7013572?gh_jid=7013572",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1527,7 +1543,7 @@
       "location": "Sydney, Australia",
       "url": "https://www.okta.com/company/careers/opportunity/7860180?gh_jid=7860180",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1535,7 +1551,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7582967?gh_jid=7582967",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1543,7 +1559,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7731263?gh_jid=7731263",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1551,7 +1567,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7728553?gh_jid=7728553",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1559,7 +1575,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/7617976?gh_jid=7617976",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1567,7 +1583,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7572029?gh_jid=7572029",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1575,7 +1591,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7648985?gh_jid=7648985",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1583,7 +1599,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7379845?gh_jid=7379845",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1591,7 +1607,7 @@
       "location": "New York, New York",
       "url": "https://www.okta.com/company/careers/opportunity/8114891?gh_jid=8114891",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1599,7 +1615,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8130437?gh_jid=8130437",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1607,7 +1623,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7780942?gh_jid=7780942",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1615,7 +1631,7 @@
       "location": "Paris, France",
       "url": "https://www.okta.com/company/careers/opportunity/7765582?gh_jid=7765582",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1623,7 +1639,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8109371?gh_jid=8109371",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1631,7 +1647,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8114261?gh_jid=8114261",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1639,7 +1655,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8039368?gh_jid=8039368",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1647,7 +1663,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7983770?gh_jid=7983770",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1655,7 +1671,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7961356?gh_jid=7961356",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1663,7 +1679,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7875175?gh_jid=7875175",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1671,7 +1687,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7821054?gh_jid=7821054",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1679,7 +1695,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8078084?gh_jid=8078084",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1687,7 +1703,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8022139?gh_jid=8022139",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1695,7 +1711,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8042657?gh_jid=8042657",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1703,7 +1719,7 @@
       "location": "Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/7917007?gh_jid=7917007",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1711,7 +1727,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/7317857?gh_jid=7317857",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1719,7 +1735,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7743974?gh_jid=7743974",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1727,7 +1743,7 @@
       "location": "London, United Kingdom",
       "url": "https://www.okta.com/company/careers/opportunity/7601524?gh_jid=7601524",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1735,7 +1751,7 @@
       "location": "Dublin, Ireland",
       "url": "https://www.okta.com/company/careers/opportunity/8094082?gh_jid=8094082",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1743,7 +1759,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8103816?gh_jid=8103816",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1751,7 +1767,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8128431?gh_jid=8128431",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1759,7 +1775,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7976638?gh_jid=7976638",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1767,7 +1783,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8152681?gh_jid=8152681",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1775,7 +1791,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; Toronto, Ontario, Canada; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8072515?gh_jid=8072515",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1783,7 +1799,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7905576?gh_jid=7905576",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1791,7 +1807,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8130897?gh_jid=8130897",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1799,7 +1815,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8022961?gh_jid=8022961",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1807,7 +1823,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8066241?gh_jid=8066241",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1815,7 +1831,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8022482?gh_jid=8022482",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1823,7 +1839,7 @@
       "location": "London, United Kingdom",
       "url": "https://www.okta.com/company/careers/opportunity/7833584?gh_jid=7833584",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1831,7 +1847,7 @@
       "location": "Munich, Germany",
       "url": "https://www.okta.com/company/careers/opportunity/8104905?gh_jid=8104905",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1839,7 +1855,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7818862?gh_jid=7818862",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1847,7 +1863,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7977895?gh_jid=7977895",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1855,7 +1871,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7963286?gh_jid=7963286",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1863,7 +1879,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1871,7 +1887,7 @@
       "location": "Bellevue, Washington; San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8100444?gh_jid=8100444",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1879,7 +1895,7 @@
       "location": "Barcelona, Spain",
       "url": "https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1887,7 +1903,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8053679?gh_jid=8053679",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1895,7 +1911,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7783585?gh_jid=7783585",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1903,7 +1919,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1911,7 +1927,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8039085?gh_jid=8039085",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1919,7 +1935,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/5781654?gh_jid=5781654",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1927,7 +1943,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York",
       "url": "https://www.okta.com/company/careers/opportunity/8092242?gh_jid=8092242",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1935,7 +1951,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7305744?gh_jid=7305744",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1943,7 +1959,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7872569?gh_jid=7872569",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1951,7 +1967,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8108376?gh_jid=8108376",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1959,7 +1975,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7894398?gh_jid=7894398",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1967,7 +1983,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8113501?gh_jid=8113501",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1975,7 +1991,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8112922?gh_jid=8112922",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1983,7 +1999,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8024173?gh_jid=8024173",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1991,7 +2007,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8146810?gh_jid=8146810",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -1999,7 +2015,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7588357?gh_jid=7588357",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2007,7 +2023,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8119091?gh_jid=8119091",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2015,7 +2031,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8024818?gh_jid=8024818",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2023,7 +2039,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8041376?gh_jid=8041376",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2031,7 +2047,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7765038?gh_jid=7765038",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2039,7 +2055,7 @@
       "location": "London, United Kingdom",
       "url": "https://www.okta.com/company/careers/opportunity/7532953?gh_jid=7532953",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2047,7 +2063,7 @@
       "location": "London, United Kingdom",
       "url": "https://www.okta.com/company/careers/opportunity/7768480?gh_jid=7768480",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2055,7 +2071,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8138326?gh_jid=8138326",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2063,7 +2079,7 @@
       "location": "Dallas, Texas; New Jersey; San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8099085?gh_jid=8099085",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2071,7 +2087,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7983532?gh_jid=7983532",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2079,7 +2095,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7685798?gh_jid=7685798",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2087,7 +2103,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7727730?gh_jid=7727730",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2095,7 +2111,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7882676?gh_jid=7882676",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2103,7 +2119,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7919336?gh_jid=7919336",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2111,7 +2127,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8103088?gh_jid=8103088",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2119,7 +2135,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7821930?gh_jid=7821930",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2127,7 +2143,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8139374?gh_jid=8139374",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2135,7 +2151,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8001002?gh_jid=8001002",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2143,7 +2159,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7855584?gh_jid=7855584",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2151,7 +2167,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8035192?gh_jid=8035192",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2159,7 +2175,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8064221?gh_jid=8064221",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2167,7 +2183,7 @@
       "location": "Connecticut; Massachusetts; New York, New York",
       "url": "https://www.okta.com/company/careers/opportunity/7607557?gh_jid=7607557",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2175,7 +2191,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8079018?gh_jid=8079018",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2183,7 +2199,7 @@
       "location": "Mexico City, Mexico",
       "url": "https://www.okta.com/company/careers/opportunity/7588683?gh_jid=7588683",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2191,7 +2207,7 @@
       "location": "Uruguay",
       "url": "https://www.okta.com/company/careers/opportunity/7586370?gh_jid=7586370",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2199,7 +2215,7 @@
       "location": "Connecticut; Maryland; New Jersey; New York, New York; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/7930857?gh_jid=7930857",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2207,7 +2223,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8103111?gh_jid=8103111",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2215,7 +2231,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8088636?gh_jid=8088636",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2223,7 +2239,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois",
       "url": "https://www.okta.com/company/careers/opportunity/8138453?gh_jid=8138453",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2231,7 +2247,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8041551?gh_jid=8041551",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2239,7 +2255,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8038929?gh_jid=8038929",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2247,7 +2263,7 @@
       "location": "London, United Kingdom; Paris, France",
       "url": "https://www.okta.com/company/careers/opportunity/7776839?gh_jid=7776839",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2255,7 +2271,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8084173?gh_jid=8084173",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2263,7 +2279,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8053199?gh_jid=8053199",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2271,7 +2287,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8142022?gh_jid=8142022",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2279,7 +2295,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8077094?gh_jid=8077094",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2287,7 +2303,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8141274?gh_jid=8141274",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2295,7 +2311,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8130056?gh_jid=8130056",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2303,7 +2319,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7703326?gh_jid=7703326",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2311,7 +2327,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7593555?gh_jid=7593555",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2319,7 +2335,7 @@
       "location": "Brisbane, Australia; Canberra, Australia; Melbourne, Australia; Sydney, Australia",
       "url": "https://www.okta.com/company/careers/opportunity/8048078?gh_jid=8048078",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2327,7 +2343,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7929542?gh_jid=7929542",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2335,7 +2351,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8078400?gh_jid=8078400",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2343,7 +2359,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7471202?gh_jid=7471202",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2351,7 +2367,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8120329?gh_jid=8120329",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2359,7 +2375,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8139696?gh_jid=8139696",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2367,7 +2383,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8064889?gh_jid=8064889",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2375,7 +2391,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7917957?gh_jid=7917957",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2383,7 +2399,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/6923203?gh_jid=6923203",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2391,7 +2407,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8137889?gh_jid=8137889",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2399,7 +2415,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8131237?gh_jid=8131237",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2407,7 +2423,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8070608?gh_jid=8070608",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2415,7 +2431,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7559020?gh_jid=7559020",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2423,7 +2439,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/7976658?gh_jid=7976658",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2431,7 +2447,7 @@
       "location": "Barcelona, Spain",
       "url": "https://www.okta.com/company/careers/opportunity/8087739?gh_jid=8087739",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2439,7 +2455,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/7976665?gh_jid=7976665",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2447,7 +2463,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8015013?gh_jid=8015013",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2455,7 +2471,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8087718?gh_jid=8087718",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2463,7 +2479,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7840544?gh_jid=7840544",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2471,7 +2487,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8059472?gh_jid=8059472",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2479,7 +2495,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7307866?gh_jid=7307866",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2487,7 +2503,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8090568?gh_jid=8090568",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2495,7 +2511,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8064877?gh_jid=8064877",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2503,7 +2519,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/6671260?gh_jid=6671260",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2511,7 +2527,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/7658254?gh_jid=7658254",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2519,7 +2535,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8034884?gh_jid=8034884",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2527,7 +2543,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8087945?gh_jid=8087945",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2535,7 +2551,7 @@
       "location": "Warsaw, Poland",
       "url": "https://www.okta.com/company/careers/opportunity/7626022?gh_jid=7626022",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2543,7 +2559,7 @@
       "location": "Tel Aviv, Israel",
       "url": "https://www.okta.com/company/careers/opportunity/8041857?gh_jid=8041857",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2551,7 +2567,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7893046?gh_jid=7893046",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2559,7 +2575,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8081016?gh_jid=8081016",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2567,7 +2583,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8018310?gh_jid=8018310",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2575,7 +2591,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8108855?gh_jid=8108855",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2583,7 +2599,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7306066?gh_jid=7306066",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2591,7 +2607,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7917002?gh_jid=7917002",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2599,7 +2615,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8007082?gh_jid=8007082",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2607,7 +2623,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8007085?gh_jid=8007085",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2615,7 +2631,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7917929?gh_jid=7917929",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2623,7 +2639,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8139936?gh_jid=8139936",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2631,7 +2647,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8081732?gh_jid=8081732",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2639,7 +2655,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7273087?gh_jid=7273087",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2647,7 +2663,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8045905?gh_jid=8045905",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2655,7 +2671,7 @@
       "location": "Bellevue, Washington; San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7674814?gh_jid=7674814",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2663,7 +2679,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7560775?gh_jid=7560775",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2671,7 +2687,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8041360?gh_jid=8041360",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2679,7 +2695,7 @@
       "location": "Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/7571064?gh_jid=7571064",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2687,7 +2703,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8147071?gh_jid=8147071",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2695,7 +2711,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8147222?gh_jid=8147222",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2703,7 +2719,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7831189?gh_jid=7831189",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2711,7 +2727,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8010671?gh_jid=8010671",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2719,7 +2735,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7582318?gh_jid=7582318",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2727,7 +2743,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7916607?gh_jid=7916607",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2735,7 +2751,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/6879868?gh_jid=6879868",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2743,7 +2759,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7882710?gh_jid=7882710",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2751,7 +2767,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8007089?gh_jid=8007089",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2759,7 +2775,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7602354?gh_jid=7602354",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2767,7 +2783,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8077108?gh_jid=8077108",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2775,7 +2791,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7745812?gh_jid=7745812",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2783,7 +2799,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8139280?gh_jid=8139280",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2791,7 +2807,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8021682?gh_jid=8021682",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2799,7 +2815,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8007091?gh_jid=8007091",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2807,7 +2823,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8082028?gh_jid=8082028",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2815,7 +2831,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8090773?gh_jid=8090773",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2823,7 +2839,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8102369?gh_jid=8102369",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2831,7 +2847,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7839826?gh_jid=7839826",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2839,7 +2855,7 @@
       "location": "Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8073066?gh_jid=8073066",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2847,7 +2863,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8073062?gh_jid=8073062",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2855,7 +2871,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8039090?gh_jid=8039090",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2863,7 +2879,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7902410?gh_jid=7902410",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2871,7 +2887,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Toronto, Ontario, Canada; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8128490?gh_jid=8128490",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2879,7 +2895,7 @@
       "location": "Arizona",
       "url": "https://www.okta.com/company/careers/opportunity/8088491?gh_jid=8088491",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2887,7 +2903,7 @@
       "location": "Sydney, Australia",
       "url": "https://www.okta.com/company/careers/opportunity/8104751?gh_jid=8104751",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2895,7 +2911,7 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7463779?gh_jid=7463779",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2903,7 +2919,7 @@
       "location": "Massachusetts",
       "url": "https://www.okta.com/company/careers/opportunity/7883456?gh_jid=7883456",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2911,7 +2927,7 @@
       "location": "Munich, Germany",
       "url": "https://www.okta.com/company/careers/opportunity/8040913?gh_jid=8040913",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2919,7 +2935,7 @@
       "location": "London, United Kingdom",
       "url": "https://www.okta.com/company/careers/opportunity/7988286?gh_jid=7988286",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2927,7 +2943,7 @@
       "location": "Chicago, Illinois; Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7902204?gh_jid=7902204",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2935,7 +2951,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2943,7 +2959,7 @@
       "location": "London, United Kingdom",
       "url": "https://www.okta.com/company/careers/opportunity/8143749?gh_jid=8143749",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2951,7 +2967,7 @@
       "location": "Tokyo, Japan",
       "url": "https://www.okta.com/company/careers/opportunity/7671515?gh_jid=7671515",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2959,7 +2975,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7997938?gh_jid=7997938",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2967,7 +2983,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/7997944?gh_jid=7997944",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2975,7 +2991,7 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7909360?gh_jid=7909360",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2983,7 +2999,7 @@
       "location": "Georgia; Massachusetts; New York, New York; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/7660357?gh_jid=7660357",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Okta",
@@ -2991,7 +3007,7 @@
       "location": "Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington",
       "url": "https://www.okta.com/company/careers/opportunity/8014691?gh_jid=8014691",
       "date_posted": "2026-08-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -2999,7 +3015,7 @@
       "location": "Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556979045-senior-researcher-security-microsoft-research-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-08-21",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3007,7 +3023,7 @@
       "location": "Milwaukee, WI, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556971418-physical-security-engineer-united-states-wisconsin-milwaukee?domain=microsoft.com",
       "date_posted": "2026-08-21",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3015,7 +3031,7 @@
       "location": "Dublin, D, IE",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847455-software-engineer-identity-ireland-dublin-dublin?domain=microsoft.com",
       "date_posted": "2026-08-21",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3023,7 +3039,7 @@
       "location": "Italy",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7927125003",
       "date_posted": "2026-08-21",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3031,7 +3047,7 @@
       "location": "Poland",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7847622003",
       "date_posted": "2026-08-21",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3039,7 +3055,7 @@
       "location": "Czech Republic",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7831318003",
       "date_posted": "2026-08-21",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3047,7 +3063,7 @@
       "location": "Spain",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7831319003",
       "date_posted": "2026-08-21",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3055,7 +3071,7 @@
       "location": "Prague, Czech Republic",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7927088003",
       "date_posted": "2026-08-21",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3063,7 +3079,7 @@
       "location": "Brno, South Moravian, Czech Republic",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7927090003",
       "date_posted": "2026-08-21",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3071,7 +3087,7 @@
       "location": "Slovakia",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7927091003",
       "date_posted": "2026-08-21",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3079,7 +3095,7 @@
       "location": "Johannesburg, GP, ZA",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556943924-senior-solution-engineer-data-security-south-africa-gauteng-johannesburg?domain=microsoft.com",
       "date_posted": "2026-08-20",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3087,15 +3103,7 @@
       "location": "Tokyo, Tokyo, JP",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556972838-security-solution-specialist%EF%BC%88%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BA%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%96%B6%E6%A5%AD%EF%BC%89-japan-tokyo-to-tokyo?domain=microsoft.com",
       "date_posted": "2026-08-20",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Digital Solution Engineer (Security, Education)",
-      "location": "Tokyo, Tokyo, JP",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955529-digital-solution-engineer-security-education--japan-tokyo-to-tokyo?domain=microsoft.com",
-      "date_posted": "2026-08-20",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3103,7 +3111,15 @@
       "location": "US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556874923-senior-security-analyst-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-08-20",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Digital Solution Engineer (Security, Education)",
+      "location": "Tokyo, Tokyo, JP",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955529-digital-solution-engineer-security-education--japan-tokyo-to-tokyo?domain=microsoft.com",
+      "date_posted": "2026-08-20",
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3111,15 +3127,7 @@
       "location": "Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556950856-principal-security-engineer-manager-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-08-19",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Senior Solution Engineer - Security",
-      "location": "Johannesburg, GP, ZA",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962616-senior-solution-engineer-security-south-africa-gauteng-johannesburg?domain=microsoft.com",
-      "date_posted": "2026-08-19",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3127,7 +3135,15 @@
       "location": "Atlanta, GA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556971416-security-operations-engineering-manager-united-states-georgia-atlanta?domain=microsoft.com",
       "date_posted": "2026-08-19",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Senior Solution Engineer - Security",
+      "location": "Johannesburg, GP, ZA",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962616-senior-solution-engineer-security-south-africa-gauteng-johannesburg?domain=microsoft.com",
+      "date_posted": "2026-08-19",
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3135,7 +3151,7 @@
       "location": "US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866772-senior-solution-area-specialists-security-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-08-19",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3143,7 +3159,7 @@
       "location": "Montreal, QC, CA",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556962133-expert-e-en-solutions-de-s%C3%A9curit%C3%A9-security-solutions-expert-canada-qu%C3%A9bec-montreal?domain=microsoft.com",
       "date_posted": "2026-08-19",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3151,15 +3167,7 @@
       "location": "Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556916180-principal-product-manager-agent-365-security-governance-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-08-18",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Security Operations Engineer",
-      "location": "Sydney, NSW, AU; Melbourne, VIC, AU",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556971405-security-operations-engineer-australia-new-south-wales-sydney?domain=microsoft.com",
-      "date_posted": "2026-08-18",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3167,7 +3175,15 @@
       "location": "Herzliya, Tel Aviv District, IL; IL",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556940295-software-engineer-azure-edge-security-israel-tel-aviv-herzliya?domain=microsoft.com",
       "date_posted": "2026-08-18",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Security Operations Engineer",
+      "location": "Sydney, NSW, AU; Melbourne, VIC, AU",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556971405-security-operations-engineer-australia-new-south-wales-sydney?domain=microsoft.com",
+      "date_posted": "2026-08-18",
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3175,7 +3191,7 @@
       "location": "Hillsboro, OR, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556962816-senior-soc-hw-power-management-validation-engineer-united-states-oregon-hillsboro?domain=microsoft.com",
       "date_posted": "2026-08-18",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3183,7 +3199,7 @@
       "location": "Auckland, Auckland, NZ",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556962460-security-sales-specialist-auckland-new-zealand-auckland-auckland?domain=microsoft.com",
       "date_posted": "2026-08-17",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3191,15 +3207,7 @@
       "location": "Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556874207-senior-security-engineer-red-team-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-08-17",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Security Researcher II",
-      "location": "Redmond, WA, US; US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556958094-security-researcher-ii-united-states-washington-redmond?domain=microsoft.com",
-      "date_posted": "2026-08-14",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3207,7 +3215,7 @@
       "location": "US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556657777-senior-principal-security-researcher-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-08-14",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3215,7 +3223,15 @@
       "location": "US; US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556958358-security-usage-analyst-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-08-14",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Security Researcher II",
+      "location": "Redmond, WA, US; US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556958094-security-researcher-ii-united-states-washington-redmond?domain=microsoft.com",
+      "date_posted": "2026-08-14",
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3223,7 +3239,7 @@
       "location": "United States - Remote",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7826948003",
       "date_posted": "2026-08-14",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3231,7 +3247,7 @@
       "location": "Bengaluru, KA, IN",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556958715-senior-soc-verification-engineer-india-karnataka-bangalore?domain=microsoft.com",
       "date_posted": "2026-08-13",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3239,23 +3255,7 @@
       "location": "US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866763-cloud-solution-architect-data-security-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-08-13",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Security Sales Team Manager",
-      "location": "Seoul, Seoul, KR",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556959335-security-sales-team-manager-korea-seoul-seoul?domain=microsoft.com",
-      "date_posted": "2026-08-12",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Principal Software Engineering Manager - Identity",
-      "location": "Dublin, D, IE",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556960200-principal-software-engineering-manager-identity-ireland-dublin-dublin?domain=microsoft.com",
-      "date_posted": "2026-08-12",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3263,7 +3263,23 @@
       "location": "JP",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556943149-technical-support-engineer-security-cloud-protection-korean-speaker-japan-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-08-12",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Security Sales Team Manager",
+      "location": "Seoul, Seoul, KR",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556959335-security-sales-team-manager-korea-seoul-seoul?domain=microsoft.com",
+      "date_posted": "2026-08-12",
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Principal Software Engineering Manager - Identity",
+      "location": "Dublin, D, IE",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556960200-principal-software-engineering-manager-identity-ireland-dublin-dublin?domain=microsoft.com",
+      "date_posted": "2026-08-12",
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3271,7 +3287,7 @@
       "location": "IL",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556959366-principal-security-researcher-microsoft-defender-israel-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-08-11",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3279,7 +3295,7 @@
       "location": "Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556955881-security-researcher-ii-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-08-11",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3287,15 +3303,7 @@
       "location": "Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556959264-director-executive-communications-security-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-08-11",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Solution Engineer - Security",
-      "location": "US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556866530-solution-engineer-security-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
-      "date_posted": "2026-08-10",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3303,7 +3311,15 @@
       "location": "IL; Herzliya, Tel Aviv District, IL; Tel Aviv-Yafo, Tel Aviv District, IL; \u05d1\"\u05e9, South District, IL; Haifa, Haifa District, IL; Nazareth, North District, IL",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556959639-security-researcher-ii-senior-security-researcher-microsoft-defender-multiple-roles--israel-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-08-10",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Solution Engineer - Security",
+      "location": "US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556866530-solution-engineer-security-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
+      "date_posted": "2026-08-10",
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3311,23 +3327,7 @@
       "location": "Melbourne",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7830553003",
       "date_posted": "2026-08-10",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Solution Engineering Sales Manager - Security",
-      "location": "Toronto, ON, CA",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556957382-solution-engineering-sales-manager-security-canada-ontario-toronto?domain=microsoft.com",
-      "date_posted": "2026-08-07",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Data and AI Security Consultant",
-      "location": "Hyderabad, TS, IN; Bengaluru, KA, IN; Noida, UP, IN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556942258-data-and-ai-security-consultant-india-telangana-hyderabad?domain=microsoft.com",
-      "date_posted": "2026-08-07",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3335,7 +3335,23 @@
       "location": "Hyderabad, TS, IN; Bengaluru, KA, IN; Noida, UP, IN",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556942260-security-consultant-secops-india-telangana-hyderabad?domain=microsoft.com",
       "date_posted": "2026-08-07",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Solution Engineering Sales Manager - Security",
+      "location": "Toronto, ON, CA",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556957382-solution-engineering-sales-manager-security-canada-ontario-toronto?domain=microsoft.com",
+      "date_posted": "2026-08-07",
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Data and AI Security Consultant",
+      "location": "Hyderabad, TS, IN; Bengaluru, KA, IN; Noida, UP, IN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556942258-data-and-ai-security-consultant-india-telangana-hyderabad?domain=microsoft.com",
+      "date_posted": "2026-08-07",
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3343,15 +3359,7 @@
       "location": "Hyderabad, TS, IN",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556942264-data-and-ai-security-consultant-india-telangana-hyderabad?domain=microsoft.com",
       "date_posted": "2026-08-07",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Security Cloud Solution Architect- CTJ - Poly",
-      "location": "Washington, DC, US; Reston, VA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556885286-security-cloud-solution-architect-ctj-poly-united-states-district-of-columbia-washington-d-c-?domain=microsoft.com",
-      "date_posted": "2026-08-06",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3359,55 +3367,15 @@
       "location": "Redmond, WA, US; Reston, VA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556870681-principal-applied-threat-intelligence-manager-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-08-06",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
-      "title": "Security Solution Engineering Technical Skilling Strategy Lead",
-      "location": "US; US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953730-security-solution-engineering-technical-skilling-strategy-lead-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
+      "title": "Security Cloud Solution Architect- CTJ - Poly",
+      "location": "Washington, DC, US; Reston, VA, US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556885286-security-cloud-solution-architect-ctj-poly-united-states-district-of-columbia-washington-d-c-?domain=microsoft.com",
       "date_posted": "2026-08-06",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Security Role Strategy Lead",
-      "location": "US; US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953732-security-role-strategy-lead-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
-      "date_posted": "2026-08-06",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Security Specialist Technical Skilling Strategy Lead",
-      "location": "US; US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953733-security-specialist-technical-skilling-strategy-lead-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
-      "date_posted": "2026-08-06",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Security Partner Strategy Lead",
-      "location": "US; US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953736-security-partner-strategy-lead-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
-      "date_posted": "2026-08-06",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Security Researcher",
-      "location": "Redmond, WA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556952558-security-researcher-united-states-washington-redmond?domain=microsoft.com",
-      "date_posted": "2026-08-06",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Senior Product Manager - Security",
-      "location": "Redmond, WA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955718-senior-product-manager-security-united-states-washington-redmond?domain=microsoft.com",
-      "date_posted": "2026-08-06",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3415,7 +3383,55 @@
       "location": "TW",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556955788-partner-solution-architect-security-taiwan-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-08-06",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Security Researcher",
+      "location": "Redmond, WA, US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556952558-security-researcher-united-states-washington-redmond?domain=microsoft.com",
+      "date_posted": "2026-08-06",
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Security Solution Engineering Technical Skilling Strategy Lead",
+      "location": "US; US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953730-security-solution-engineering-technical-skilling-strategy-lead-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
+      "date_posted": "2026-08-06",
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Security Role Strategy Lead",
+      "location": "US; US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953732-security-role-strategy-lead-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
+      "date_posted": "2026-08-06",
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Security Specialist Technical Skilling Strategy Lead",
+      "location": "US; US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953733-security-specialist-technical-skilling-strategy-lead-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
+      "date_posted": "2026-08-06",
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Security Partner Strategy Lead",
+      "location": "US; US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953736-security-partner-strategy-lead-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
+      "date_posted": "2026-08-06",
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Senior Product Manager - Security",
+      "location": "Redmond, WA, US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955718-senior-product-manager-security-united-states-washington-redmond?domain=microsoft.com",
+      "date_posted": "2026-08-06",
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3423,7 +3439,7 @@
       "location": "Raleigh, NC, US; Redmond, WA, US; Austin, TX, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556957362-soc-performance-verification-engineer-senior-united-states-north-carolina-raleigh?domain=microsoft.com",
       "date_posted": "2026-08-06",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3431,23 +3447,7 @@
       "location": "London, England, GB",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556946172-senior-software-engineer-fde-security-check-sc-clearance-united-kingdom-london-london?domain=microsoft.com",
       "date_posted": "2026-08-06",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Security Community Lead",
-      "location": "US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953722-security-community-lead-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
-      "date_posted": "2026-08-05",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Security Revenue Performance Manager",
-      "location": "US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953714-security-revenue-performance-manager-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
-      "date_posted": "2026-08-05",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3455,15 +3455,23 @@
       "location": "Redmond, WA, US; Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556944449-senior-security-engineer-and-principal-security-engineer-multiple-positions--united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-08-05",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
-      "title": "Senior SOC Debug Verification Engineer",
-      "location": "Bengaluru, KA, IN; Hyderabad, TS, IN; Noida, UP, IN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556952150-senior-soc-debug-verification-engineer-india-karnataka-bangalore?domain=microsoft.com",
-      "date_posted": "2026-08-04",
-      "date_scraped": "2026-08-29"
+      "title": "Security Revenue Performance Manager",
+      "location": "US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953714-security-revenue-performance-manager-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
+      "date_posted": "2026-08-05",
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Security Community Lead",
+      "location": "US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953722-security-community-lead-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
+      "date_posted": "2026-08-05",
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3471,7 +3479,7 @@
       "location": "Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556953096-principal-security-researcher-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-08-04",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3479,7 +3487,15 @@
       "location": "Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556953197-principal-security-research-manager-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-08-04",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Senior SOC Debug Verification Engineer",
+      "location": "Bengaluru, KA, IN; Hyderabad, TS, IN; Noida, UP, IN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556952150-senior-soc-debug-verification-engineer-india-karnataka-bangalore?domain=microsoft.com",
+      "date_posted": "2026-08-04",
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3487,7 +3503,7 @@
       "location": "Cambridge, England, GB",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867988-senior-security-engineer-united-kingdom-cambridgeshire-cambridge?domain=microsoft.com",
       "date_posted": "2026-08-03",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3495,15 +3511,7 @@
       "location": "Mountain View, CA, US; Hillsboro, OR, US; Austin, TX, US; Redmond, WA, US; Raleigh, NC, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556947404-senior-security-ip-engineer-united-states-california-mountain-view?domain=microsoft.com",
       "date_posted": "2026-08-03",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "SoC HW (Digital, Analog or PnP) Validation Engineer",
-      "location": "Hillsboro, OR, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556947838-soc-hw-digital-analog-or-pnp-validation-engineer-united-states-oregon-hillsboro?domain=microsoft.com",
-      "date_posted": "2026-07-31",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3511,23 +3519,15 @@
       "location": "Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867420-senior-applied-threat-intelligence-analyst-microsoft-security-threat-response-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-07-31",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
-      "title": "Principal Security Architect",
-      "location": "US; US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556952485-principal-security-architect-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
-      "date_posted": "2026-07-30",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Director, Forward Deployed Security",
-      "location": "US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951412-director-forward-deployed-security-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
-      "date_posted": "2026-07-30",
-      "date_scraped": "2026-08-29"
+      "title": "SoC HW (Digital, Analog or PnP) Validation Engineer",
+      "location": "Hillsboro, OR, US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556947838-soc-hw-digital-analog-or-pnp-validation-engineer-united-states-oregon-hillsboro?domain=microsoft.com",
+      "date_posted": "2026-07-31",
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3535,7 +3535,23 @@
       "location": "US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556951953-principal-security-engineer-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-07-30",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Director, Forward Deployed Security",
+      "location": "US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951412-director-forward-deployed-security-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
+      "date_posted": "2026-07-30",
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Principal Security Architect",
+      "location": "US; US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556952485-principal-security-architect-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
+      "date_posted": "2026-07-30",
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3543,7 +3559,7 @@
       "location": "Redmond, WA, US; Reston, VA, US; Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556870749-senior-applied-threat-intelligence-analysts-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-07-30",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3551,7 +3567,7 @@
       "location": "Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556941458-principal-security-engineer-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-07-28",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3559,7 +3575,7 @@
       "location": "Redmond, WA, US; Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556947599-senior-security-researcher-and-principal-security-researcher-multiple-positions--united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-07-28",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3567,7 +3583,7 @@
       "location": "United States - Remote",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7814850003",
       "date_posted": "2026-07-28",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3575,7 +3591,7 @@
       "location": "TW",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556943287-digital-solution-area-specialists-security-taiwan-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-07-27",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3583,7 +3599,7 @@
       "location": "JP",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556943132-technical-support-engineer-azure-identity-korean-speaker-japan-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-07-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3591,7 +3607,7 @@
       "location": "US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556939531-principal-security-architect-security-assurance-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-07-24",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3599,23 +3615,7 @@
       "location": "Redmond, WA, US; Mountain View, CA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556943561-principal-security-operations-engineering-manager-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-07-24",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Senior Software Engineer, Security AI",
-      "location": "Redmond, WA, US; Mountain View, CA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556942050-senior-software-engineer-security-ai-united-states-washington-redmond?domain=microsoft.com",
-      "date_posted": "2026-07-23",
-      "date_scraped": "2026-08-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Senior AI Engineer, Security AI",
-      "location": "Redmond, WA, US; Mountain View, CA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556943562-senior-ai-engineer-security-ai-united-states-washington-redmond?domain=microsoft.com",
-      "date_posted": "2026-07-23",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3623,7 +3623,23 @@
       "location": "US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866771-solution-engineer-data-security-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-07-23",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Senior Software Engineer, Security AI",
+      "location": "Redmond, WA, US; Mountain View, CA, US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556942050-senior-software-engineer-security-ai-united-states-washington-redmond?domain=microsoft.com",
+      "date_posted": "2026-07-23",
+      "date_scraped": "2026-08-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Senior AI Engineer, Security AI",
+      "location": "Redmond, WA, US; Mountain View, CA, US",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556943562-senior-ai-engineer-security-ai-united-states-washington-redmond?domain=microsoft.com",
+      "date_posted": "2026-07-23",
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3631,7 +3647,7 @@
       "location": "US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556939342-principal-security-engineering-manager-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-07-22",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3639,7 +3655,7 @@
       "location": "Taipei City, TW",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556938851-technical-support-engineer-security-cyberdefender-taiwan-taipei-city-taipei?domain=microsoft.com",
       "date_posted": "2026-07-22",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3647,7 +3663,7 @@
       "location": "Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860202-principal-software-engineer-identity-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-07-21",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3655,7 +3671,7 @@
       "location": "IN; Bengaluru, KA, IN",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556925317-principal-solution-sales-security-india?domain=microsoft.com",
       "date_posted": "2026-07-17",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3663,7 +3679,7 @@
       "location": "Auckland, Auckland, NZ",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556913187-senior-security-sales-specialist-auckland-new-zealand-auckland-auckland?domain=microsoft.com",
       "date_posted": "2026-07-16",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3671,7 +3687,7 @@
       "location": "Taipei City, TW",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556928381-technical-support-engineer-entra-identity-taiwan-taipei-city-taipei?domain=microsoft.com",
       "date_posted": "2026-07-14",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3679,7 +3695,7 @@
       "location": "Osaka, Osaka, JP",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556927704-datacenter-security-operations-manager-japan-osaka-fu-osaka?domain=microsoft.com",
       "date_posted": "2026-07-13",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3687,7 +3703,7 @@
       "location": "London, England, GB",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556928855-sr-data-scientist-fde-security-check-sc-clearance-united-kingdom-london-london?domain=microsoft.com",
       "date_posted": "2026-07-10",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3695,7 +3711,7 @@
       "location": "London, England, GB",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556927509-principal-technical-program-manager-fde-security-check-sc-clearance-united-kingdom-london-london?domain=microsoft.com",
       "date_posted": "2026-07-09",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3703,7 +3719,7 @@
       "location": "US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866764-cloud-solution-architect-security-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-07-02",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3711,7 +3727,7 @@
       "location": "IL",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556918902-principal-security-research-microsoft-security-israel-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-07-01",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3719,7 +3735,7 @@
       "location": "Mumbai, MH, IN",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556918343-cloud-solution-architect-security-india-maharashtra-mumbai?domain=microsoft.com",
       "date_posted": "2026-06-30",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3727,7 +3743,7 @@
       "location": "Seoul, Seoul, KR",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556874683-senior-solution-architect-security--korea-seoul-seoul?domain=microsoft.com",
       "date_posted": "2026-06-25",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3735,7 +3751,7 @@
       "location": "US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866770-sales-specialist-security-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-06-18",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3743,7 +3759,7 @@
       "location": "Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556868893-member-of-technical-staff-microsoft-robotics-robot-security-safety--united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-05-29",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3751,7 +3767,7 @@
       "location": "US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866735-principal-global-solution-architect-security-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-05-13",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3759,7 +3775,7 @@
       "location": "France",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7731891003",
       "date_posted": "2026-05-12",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3767,7 +3783,7 @@
       "location": "US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556864063-senior-global-solution-architect-security-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-05-07",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "Microsoft",
@@ -3775,7 +3791,7 @@
       "location": "MY",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863223-cloud-solution-architect-security-malaysia-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-05-04",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3783,7 +3799,7 @@
       "location": "Brno, South Moravian, Czech Republic",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7561108003",
       "date_posted": "2025-12-15",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3791,7 +3807,7 @@
       "location": "Prague, Czech Republic",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7561106003",
       "date_posted": "2025-12-15",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3799,7 +3815,7 @@
       "location": "Czech Republic",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7561109003",
       "date_posted": "2025-12-15",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3807,7 +3823,7 @@
       "location": "Slovakia",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7561107003",
       "date_posted": "2025-12-15",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3815,7 +3831,7 @@
       "location": "United States - Remote",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=6665700003",
       "date_posted": "2025-10-30",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3823,7 +3839,7 @@
       "location": "Italy",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=6647498003",
       "date_posted": "2025-07-14",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3831,7 +3847,7 @@
       "location": "Spain",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=6647497003",
       "date_posted": "2025-07-14",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3839,7 +3855,7 @@
       "location": "Prague, Czech Republic",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=6647495003",
       "date_posted": "2025-07-14",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3847,7 +3863,7 @@
       "location": "Slovakia",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=6639641003",
       "date_posted": "2025-07-09",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3855,7 +3871,7 @@
       "location": "Czech Republic",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=6629340003",
       "date_posted": "2025-07-09",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3863,7 +3879,7 @@
       "location": "Brno, South Moravian, Czech Republic",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=6639669003",
       "date_posted": "2025-07-09",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     },
     {
       "company": "SentinelOne",
@@ -3871,7 +3887,7 @@
       "location": "Poland",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=6639668003",
       "date_posted": "2025-07-09",
-      "date_scraped": "2026-08-29"
+      "date_scraped": "2026-08-30"
     }
   ],
   "failed_scrapers": [
