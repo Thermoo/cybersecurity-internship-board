@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-05T03:55:35.978383+00:00",
+  "last_updated": "2026-09-05T11:47:19.863303+00:00",
   "internships": [
     {
       "company": "CrowdStrike",
       "title": "Sales Specialist, Cloud Security (Remote, GBR)",
       "location": "United Kingdom - Remote",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Specialist--Cloud-Security--Remote--GBR-_R29368",
-      "date_posted": "Posted Yesterday",
+      "date_posted": "Posted 2 Days Ago",
       "date_scraped": "2026-09-05"
     },
     {
@@ -14,7 +14,7 @@
       "title": "Product Security Engineer, Vulnerability Intelligence",
       "location": "19 Locations",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Product-Security-Engineer--Vulnerability-Intelligence_R29992",
-      "date_posted": "Posted Yesterday",
+      "date_posted": "Posted 2 Days Ago",
       "date_scraped": "2026-09-05"
     },
     {
@@ -22,7 +22,15 @@
       "title": "Software Engineer, Product Security - Security Automation (Remote)",
       "location": "28 Locations",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Software-Engineer--Product-Security---Security-Automation--Remote-_R29972",
-      "date_posted": "Posted Yesterday",
+      "date_posted": "Posted 2 Days Ago",
+      "date_scraped": "2026-09-05"
+    },
+    {
+      "company": "Okta",
+      "title": "Staff Software Engineer, Identity Administration",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/8147071?gh_jid=8147071",
+      "date_posted": "2026-09-05",
       "date_scraped": "2026-09-05"
     },
     {
@@ -446,14 +454,6 @@
       "title": "Cloud Solution Architect - Security",
       "location": "SA",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556946115-cloud-solution-architect-security-saudi-arabia-multiple-locations-multiple-locations?domain=microsoft.com",
-      "date_posted": "2026-08-31",
-      "date_scraped": "2026-09-05"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Principal Strategist - Threat Intelligence & Protection",
-      "location": "Redmond, WA, US; Reston, VA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972066-principal-strategist-threat-intelligence-protection-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-08-31",
       "date_scraped": "2026-09-05"
     },
@@ -967,14 +967,6 @@
       "location": "Israel",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7843276003",
       "date_posted": "2026-08-25",
-      "date_scraped": "2026-09-05"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Principal SoC Circuit Architect",
-      "location": "Mountain View, CA, US; Sacramento, CA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556930082-principal-soc-circuit-architect-united-states-california-mountain-view?domain=microsoft.com",
-      "date_posted": "2026-08-24",
       "date_scraped": "2026-09-05"
     },
     {
@@ -2622,14 +2614,6 @@
       "title": "Staff Software Engineer - Federal",
       "location": "Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/7571064?gh_jid=7571064",
-      "date_posted": "2026-08-24",
-      "date_scraped": "2026-09-05"
-    },
-    {
-      "company": "Okta",
-      "title": "Staff Software Engineer, Identity Administration",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8147071?gh_jid=8147071",
       "date_posted": "2026-08-24",
       "date_scraped": "2026-09-05"
     },
