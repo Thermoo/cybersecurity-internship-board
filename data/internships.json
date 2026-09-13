@@ -1,20 +1,12 @@
 {
-  "last_updated": "2026-09-13T04:16:21.086709+00:00",
+  "last_updated": "2026-09-13T13:15:08.771121+00:00",
   "internships": [
-    {
-      "company": "CrowdStrike",
-      "title": "Sr. Engineer - Data Onboarding, NG-SIEM (Hybrid)",
-      "location": "Ireland - Dublin",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Ireland---Dublin/Sr-Engineer--Cloud---Data-Onboarding--NG-SIEM_R26973-1",
-      "date_posted": "Posted Yesterday",
-      "date_scraped": "2026-09-13"
-    },
     {
       "company": "CrowdStrike",
       "title": "Engineer II, Software Assurance, Product Security (Remote)",
       "location": "USA - Remote",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328",
-      "date_posted": "Posted 3 Days Ago",
+      "date_posted": "Posted 4 Days Ago",
       "date_scraped": "2026-09-13"
     },
     {
@@ -22,7 +14,7 @@
       "title": "Security Engineer III - SIEM (Hybrid)",
       "location": "USA - New York, NY",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Engineer-III---SIEM-Integrations--Hybrid-_R29483",
-      "date_posted": "Posted 3 Days Ago",
+      "date_posted": "Posted 4 Days Ago",
       "date_scraped": "2026-09-13"
     },
     {
@@ -30,7 +22,7 @@
       "title": "Sr Backend Engineer, Falcon NG-SIEM, Global Serverless Platform",
       "location": "USA - Austin, TX",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/Backend-Engineer-III--Falcon-NG-SIEM--Global-Serverless-Platform--Remote--East-Coast-_R25320",
-      "date_posted": "Posted 3 Days Ago",
+      "date_posted": "Posted 4 Days Ago",
       "date_scraped": "2026-09-13"
     },
     {
@@ -38,7 +30,7 @@
       "title": "Engineering, Manager - Data Ingestion, NG-SIEM (Hybrid)",
       "location": "USA - New York, NY",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Engineering--Manager---Data-Ingestion--NG-SIEM--Hybrid-_R29629",
-      "date_posted": "Posted 3 Days Ago",
+      "date_posted": "Posted 4 Days Ago",
       "date_scraped": "2026-09-13"
     },
     {
@@ -46,7 +38,7 @@
       "title": "Sr. Cloud Threat Hunter - AWS (Remote)",
       "location": "USA - Remote",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Cloud-Threat-Hunter---AWS--Remote-_R29913",
-      "date_posted": "Posted 3 Days Ago",
+      "date_posted": "Posted 4 Days Ago",
       "date_scraped": "2026-09-13"
     },
     {
@@ -54,6 +46,14 @@
       "title": "Detection Focused Sr. Cloud Security Consultant - JAPAC (Remote, AUS)",
       "location": "11 Locations",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Australia---Remote-WA/Cloud-Threat-Hunting-Senior-Consultant--Remote-_R28559",
+      "date_posted": "Posted 3 Days Ago",
+      "date_scraped": "2026-09-13"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Sr. Engineer - Data Onboarding, NG-SIEM (Hybrid)",
+      "location": "Ireland - Dublin",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Ireland---Dublin/Sr-Engineer--Cloud---Data-Onboarding--NG-SIEM_R26973-1",
       "date_posted": "Posted 2 Days Ago",
       "date_scraped": "2026-09-13"
     },
@@ -2803,14 +2803,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Principal Strategist - Threat Intelligence & Protection",
-      "location": "Redmond, WA, US; Reston, VA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972066-principal-strategist-threat-intelligence-protection-united-states-washington-redmond?domain=microsoft.com",
-      "date_posted": "2026-09-09",
-      "date_scraped": "2026-09-13"
-    },
-    {
-      "company": "Microsoft",
       "title": "Security Engineer II",
       "location": "Redmond, WA, US; US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556988227-security-engineer-ii-united-states-washington-redmond?domain=microsoft.com",
@@ -3019,14 +3011,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "SOC Debug Verification Engineer II",
-      "location": "Bengaluru, KA, IN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556990333-soc-debug-verification-engineer-ii-india-karnataka-bangalore?domain=microsoft.com",
-      "date_posted": "2026-09-07",
-      "date_scraped": "2026-09-13"
-    },
-    {
-      "company": "Microsoft",
       "title": "Senior Security Engineer",
       "location": "Cambridge, England, GB",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867988-senior-security-engineer-united-kingdom-cambridgeshire-cambridge?domain=microsoft.com",
@@ -3086,14 +3070,6 @@
       "title": "Data Center Security Operations Manager - DSOM",
       "location": "Ashburn, VA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556984112-data-center-security-operations-manager-dsom-united-states-virginia-ashburn?domain=microsoft.com",
-      "date_posted": "2026-09-04",
-      "date_scraped": "2026-09-13"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Cloud Solution Architect - Security",
-      "location": "Johannesburg, GP, ZA",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556984371-cloud-solution-architect-security-south-africa-gauteng-johannesburg?domain=microsoft.com",
       "date_posted": "2026-09-04",
       "date_scraped": "2026-09-13"
     },
@@ -3222,14 +3198,6 @@
       "title": "Activation GTM Director-Security",
       "location": "SG",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556978843-activation-gtm-director-security-singapore-singapore-singapore?domain=microsoft.com",
-      "date_posted": "2026-08-26",
-      "date_scraped": "2026-09-13"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Data Center Security Operations Manager - DSOM",
-      "location": "Atlanta, GA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979168-data-center-security-operations-manager-dsom-united-states-georgia-atlanta?domain=microsoft.com",
       "date_posted": "2026-08-26",
       "date_scraped": "2026-09-13"
     },
