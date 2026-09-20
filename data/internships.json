@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-20T04:25:54.740631+00:00",
+  "last_updated": "2026-09-20T13:00:03.730466+00:00",
   "internships": [
     {
       "company": "CrowdStrike",
       "title": "Product Security Engineer III (Remote)",
       "location": "USA - Remote",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Engineer-III--Remote-_R29866",
-      "date_posted": "Posted 3 Days Ago",
+      "date_posted": "Posted 4 Days Ago",
       "date_scraped": "2026-09-20"
     },
     {
@@ -14,7 +14,7 @@
       "title": "Threat Hunter, FedCloud (Remote)",
       "location": "USA - Remote",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Threat-Hunter--FedCloud--Remote-_R29822",
-      "date_posted": "Posted 3 Days Ago",
+      "date_posted": "Posted 4 Days Ago",
       "date_scraped": "2026-09-20"
     },
     {
@@ -22,7 +22,7 @@
       "title": "Sr. LogScale/NG SIEM Customer Success Manager - Bilingual (Spanish/English) (Remote)",
       "location": "2 Locations",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Mexico---Remote/Sr-Customer-Success-Manager---LogScale-Next-Gen-SIEM--Remote--MEX-_R26937",
-      "date_posted": "Posted 2 Days Ago",
+      "date_posted": "Posted 3 Days Ago",
       "date_scraped": "2026-09-20"
     },
     {
@@ -30,7 +30,7 @@
       "title": "Engineer II \u2013 SIEM Integrations",
       "location": "India - Bangalore",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Bangalore/Engineer-II---SIEM-Integrations_R28246",
-      "date_posted": "Posted 2 Days Ago",
+      "date_posted": "Posted 3 Days Ago",
       "date_scraped": "2026-09-20"
     },
     {
@@ -638,14 +638,6 @@
       "title": "Expert(e) en solutions de s\u00e9curit\u00e9/ Security Solutions Expert",
       "location": "Montreal, QC, CA; Toronto, ON, CA",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556998411-expert-e-en-solutions-de-s%C3%A9curit%C3%A9-security-solutions-expert-canada-qu%C3%A9bec-montreal?domain=microsoft.com",
-      "date_posted": "2026-09-15",
-      "date_scraped": "2026-09-20"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Principal Strategist - Threat Intelligence & Protection",
-      "location": "Redmond, WA, US; Reston, VA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972066-principal-strategist-threat-intelligence-protection-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-09-15",
       "date_scraped": "2026-09-20"
     },
@@ -3244,7 +3236,7 @@
     {
       "company": "Microsoft",
       "title": "Principal Product Manager- Agentic Security",
-      "location": "Unknown",
+      "location": "US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556982816-principal-product-manager-agentic-security-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-09-04",
       "date_scraped": "2026-09-20"
