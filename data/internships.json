@@ -1,12 +1,20 @@
 {
-  "last_updated": "2026-10-17T03:54:26.645755+00:00",
+  "last_updated": "2026-10-17T12:06:23.748574+00:00",
   "internships": [
+    {
+      "company": "CrowdStrike",
+      "title": "Staff Product Marketing Manager, Cloud Risk & Developer Security (Remote)",
+      "location": "USA - Remote",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Staff-Product-Marketing-Manager--Cloud-Risk---Developer-Security--Remote-_R30309",
+      "date_posted": "Posted Yesterday",
+      "date_scraped": "2026-10-17"
+    },
     {
       "company": "CrowdStrike",
       "title": "Specialist, NG Identity Security (Remote)",
       "location": "USA - Remote, CO",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CO/Specialist--NG-Identity-Security--Remote-_R30282",
-      "date_posted": "Posted Yesterday",
+      "date_posted": "Posted 2 Days Ago",
       "date_scraped": "2026-10-17"
     },
     {
@@ -14,23 +22,7 @@
       "title": "Specialist Sales Manager, NG SIEM (Remote, Southeast)",
       "location": "2 Locations",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-FL/Specialist-Sales-Manager--NG-SIEM--Remote--Southeast-_R30284-1",
-      "date_posted": "Posted Yesterday",
-      "date_scraped": "2026-10-17"
-    },
-    {
-      "company": "CrowdStrike",
-      "title": "Incident Response Consultant (Remote)",
-      "location": "USA - Remote",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Incident-Response-Consultant--Remote-_R30289",
-      "date_posted": "Posted Yesterday",
-      "date_scraped": "2026-10-17"
-    },
-    {
-      "company": "CrowdStrike",
-      "title": "Staff Product Marketing Manager, Cloud Risk & Developer Security (Remote)",
-      "location": "USA - Remote",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Staff-Product-Marketing-Manager--Cloud-Risk---Developer-Security--Remote-_R30309",
-      "date_posted": "Posted Today",
+      "date_posted": "Posted 2 Days Ago",
       "date_scraped": "2026-10-17"
     },
     {
@@ -430,14 +422,6 @@
       "title": "Partner Solution Sales - Security",
       "location": "Tokyo, Tokyo, JP; Tokyo, JP",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557041816-partner-solution-sales-security-japan-tokyo-to-tokyo?domain=microsoft.com",
-      "date_posted": "2026-10-15",
-      "date_scraped": "2026-10-17"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Senior Product Manager - Security & Compliance",
-      "location": "Redmond, WA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557021804-senior-product-manager-security-compliance-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-10-15",
       "date_scraped": "2026-10-17"
     },
