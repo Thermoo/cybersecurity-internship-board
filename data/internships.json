@@ -1,20 +1,12 @@
 {
-  "last_updated": "2026-10-18T04:00:03.302974+00:00",
+  "last_updated": "2026-10-18T12:33:27.049277+00:00",
   "internships": [
-    {
-      "company": "CrowdStrike",
-      "title": "Staff Product Marketing Manager, Cloud Risk & Developer Security (Remote)",
-      "location": "USA - Remote",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Staff-Product-Marketing-Manager--Cloud-Risk---Developer-Security--Remote-_R30309",
-      "date_posted": "Posted Yesterday",
-      "date_scraped": "2026-10-18"
-    },
     {
       "company": "CrowdStrike",
       "title": "Specialist, NG Identity Security (Remote)",
       "location": "USA - Remote, CO",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CO/Specialist--NG-Identity-Security--Remote-_R30282",
-      "date_posted": "Posted 2 Days Ago",
+      "date_posted": "Posted 3 Days Ago",
       "date_scraped": "2026-10-18"
     },
     {
@@ -22,6 +14,14 @@
       "title": "Specialist Sales Manager, NG SIEM (Remote, Southeast)",
       "location": "2 Locations",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-FL/Specialist-Sales-Manager--NG-SIEM--Remote--Southeast-_R30284-1",
+      "date_posted": "Posted 3 Days Ago",
+      "date_scraped": "2026-10-18"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Staff Product Marketing Manager, Cloud Risk & Developer Security (Remote)",
+      "location": "USA - Remote",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Staff-Product-Marketing-Manager--Cloud-Risk---Developer-Security--Remote-_R30309",
       "date_posted": "Posted 2 Days Ago",
       "date_scraped": "2026-10-18"
     },
@@ -1758,14 +1758,6 @@
       "title": "Cloud Solution Architect - Security",
       "location": "US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557001463-cloud-solution-architect-security-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
-      "date_posted": "2026-10-06",
-      "date_scraped": "2026-10-18"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Data Security Solution Engineer",
-      "location": "S\u00e3o Paulo, SP, BR",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004703-data-security-solution-engineer-brazil-s%C3%A3o-paulo-s%C3%A3o-paulo?domain=microsoft.com",
       "date_posted": "2026-10-06",
       "date_scraped": "2026-10-18"
     },
