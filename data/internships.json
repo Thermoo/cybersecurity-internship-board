@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T14:28:19.286404+00:00",
+  "last_updated": "2026-10-31T19:52:15.244715+00:00",
   "internships": [
     {
       "company": "CrowdStrike",
@@ -1811,22 +1811,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Security Researcher",
-      "location": "Hyderabad, TS, IN; Bengaluru, KA, IN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041198-security-researcher-india-telangana-hyderabad?domain=microsoft.com",
-      "date_posted": "2026-10-15",
-      "date_scraped": "2026-10-31"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Senior Software Engineer - Cloud & Security",
-      "location": "Hyderabad, TS, IN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557006368-senior-software-engineer-cloud-security-india-telangana-hyderabad?domain=microsoft.com",
-      "date_posted": "2026-10-15",
-      "date_scraped": "2026-10-31"
-    },
-    {
-      "company": "Microsoft",
       "title": "Cybersecurity Incident Response Lead",
       "location": "SG",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557039412-cybersecurity-incident-response-lead-singapore-singapore-singapore?domain=microsoft.com",
@@ -3223,14 +3207,6 @@
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
       "url": "https://www.sentinelone.com/jobs/?gh_jid=8007921003",
       "date_posted": "2026-09-30",
-      "date_scraped": "2026-10-31"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Infra & Security Consultant",
-      "location": "Bengaluru, KA, IN; Mumbai, MH, IN; Noida, UP, IN; Bengaluru, KA, IN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556875245-infra-security-consultant-india-karnataka-bangalore?domain=microsoft.com",
-      "date_posted": "2026-09-29",
       "date_scraped": "2026-10-31"
     },
     {
