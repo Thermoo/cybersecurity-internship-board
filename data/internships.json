@@ -1,52 +1,12 @@
 {
-  "last_updated": "2026-11-08T05:31:34.175690+00:00",
+  "last_updated": "2026-11-08T14:56:56.980688+00:00",
   "internships": [
     {
       "company": "CrowdStrike",
-      "title": "Principal Product Manager - Threat Detection Engine and Content (Hybrid)",
-      "location": "5 Locations",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Principal-Product-Manager---Threat-Detection-Engine-and-Content--Hybrid-_R28372",
-      "date_posted": "Posted Yesterday",
-      "date_scraped": "2026-11-08"
-    },
-    {
-      "company": "CrowdStrike",
-      "title": "Consultant, Cloud Incident Response (Remote)",
-      "location": "United Kingdom - Remote",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Consultant--Cloud-Incident-Response--Remote-_R30643",
-      "date_posted": "Posted Yesterday",
-      "date_scraped": "2026-11-08"
-    },
-    {
-      "company": "CrowdStrike",
-      "title": "Incident Response Consultant (Remote, GBR)",
-      "location": "United Kingdom - Remote",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Incident-Response-Consultant--Remote--GBR-_R30532",
-      "date_posted": "Posted Yesterday",
-      "date_scraped": "2026-11-08"
-    },
-    {
-      "company": "CrowdStrike",
-      "title": "Professional Services Principal Consultant - Incident Response (Remote, GBR)",
-      "location": "United Kingdom - Remote",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Professional-Services-Principal-Consultant---Incident-Response--Remote--GBR-_R30531",
-      "date_posted": "Posted Yesterday",
-      "date_scraped": "2026-11-08"
-    },
-    {
-      "company": "CrowdStrike",
-      "title": "Incident Response Sr. Consultant (Remote)",
-      "location": "3 Locations",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Incident-Response-Sr-Consultant--Remote-_R30530",
-      "date_posted": "Posted Yesterday",
-      "date_scraped": "2026-11-08"
-    },
-    {
-      "company": "CrowdStrike",
-      "title": "Incident Response Sr. Consultant (Remote)",
-      "location": "3 Locations",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Incident-Response-Sr-Consultant--Remote-_R30529",
-      "date_posted": "Posted Yesterday",
+      "title": "Sr. MacOS Sensor Engineer, Data Security (Hybrid, ISR)",
+      "location": "Israel - Tel Aviv",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Israel---Tel-Aviv/Sr-MacOS-Sensor-Engineer--Data-Security--Hybrid--ISR-_R30425",
+      "date_posted": "Posted Today",
       "date_scraped": "2026-11-08"
     },
     {
@@ -54,7 +14,47 @@
       "title": "Sr Software Engineer, Cloud - Vulnerability Management (Hybrid)",
       "location": "USA - Sunnyvale, CA",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Engineer---Risk-Platform--Hybrid--Sunnyvale-_R29171",
-      "date_posted": "Posted 19 Days Ago",
+      "date_posted": "Posted 20 Days Ago",
+      "date_scraped": "2026-11-08"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Principal Product Manager - Threat Detection Engine and Content (Hybrid)",
+      "location": "5 Locations",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Principal-Product-Manager---Threat-Detection-Engine-and-Content--Hybrid-_R28372",
+      "date_posted": "Posted 2 Days Ago",
+      "date_scraped": "2026-11-08"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Consultant, Cloud Incident Response (Remote)",
+      "location": "United Kingdom - Remote",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Consultant--Cloud-Incident-Response--Remote-_R30643",
+      "date_posted": "Posted 2 Days Ago",
+      "date_scraped": "2026-11-08"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Incident Response Consultant (Remote, GBR)",
+      "location": "United Kingdom - Remote",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Incident-Response-Consultant--Remote--GBR-_R30532",
+      "date_posted": "Posted 2 Days Ago",
+      "date_scraped": "2026-11-08"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Professional Services Principal Consultant - Incident Response (Remote, GBR)",
+      "location": "United Kingdom - Remote",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Professional-Services-Principal-Consultant---Incident-Response--Remote--GBR-_R30531",
+      "date_posted": "Posted 2 Days Ago",
+      "date_scraped": "2026-11-08"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Incident Response Sr. Consultant (Remote)",
+      "location": "3 Locations",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Incident-Response-Sr-Consultant--Remote-_R30530",
+      "date_posted": "Posted 2 Days Ago",
       "date_scraped": "2026-11-08"
     },
     {
@@ -974,22 +974,6 @@
       "title": "Senior Software Engineer - Cloud & Security",
       "location": "Hyderabad, TS, IN",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557006368-senior-software-engineer-cloud-security-india-telangana-hyderabad?domain=microsoft.com",
-      "date_posted": "2026-11-03",
-      "date_scraped": "2026-11-08"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Senior Product Marketing Manager, Competitive Intelligence - Identity and Network Security",
-      "location": "Redmond, WA, US; Mountain View, CA, US; New York, NY, US; Atlanta, GA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557040474-senior-product-marketing-manager-competitive-intelligence-identity-and-network-security-united-states-washington-redmond?domain=microsoft.com",
-      "date_posted": "2026-11-03",
-      "date_scraped": "2026-11-08"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Senior Product Marketing Manager, Competitive Intelligence - Code and Application Security",
-      "location": "Redmond, WA, US; New York, NY, US; Mountain View, CA, US; Atlanta, GA, US",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041747-senior-product-marketing-manager-competitive-intelligence-code-and-application-security-united-states-washington-redmond?domain=microsoft.com",
       "date_posted": "2026-11-03",
       "date_scraped": "2026-11-08"
     },
@@ -2292,7 +2276,7 @@
     {
       "company": "Microsoft",
       "title": "Digital Security Engineer",
-      "location": "Unknown",
+      "location": "US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557041395-digital-security-engineer-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
       "date_posted": "2026-10-19",
       "date_scraped": "2026-11-08"
@@ -2359,14 +2343,6 @@
       "location": "Seoul, South Korea",
       "url": "https://www.okta.com/company/careers/opportunity/8288553?gh_jid=8288553",
       "date_posted": "2026-10-19",
-      "date_scraped": "2026-11-08"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Senior Software Engineer and Principal Software Engineer - Microsoft Security - Multiple roles",
-      "location": "Herzliya, Tel Aviv District, IL",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042099-senior-software-engineer-and-principal-software-engineer-microsoft-security-multiple-roles-israel-tel-aviv-herzliya?domain=microsoft.com",
-      "date_posted": "2026-10-18",
       "date_scraped": "2026-11-08"
     },
     {
@@ -2943,14 +2919,6 @@
       "location": "Bellevue, Washington",
       "url": "https://www.okta.com/company/careers/opportunity/8267556?gh_jid=8267556",
       "date_posted": "2026-10-09",
-      "date_scraped": "2026-11-08"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Security Research - MSTIC Threat Intelligence",
-      "location": "IL",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557025853-security-research-mstic-threat-intelligence-israel-multiple-locations-multiple-locations?domain=microsoft.com",
-      "date_posted": "2026-10-08",
       "date_scraped": "2026-11-08"
     },
     {
