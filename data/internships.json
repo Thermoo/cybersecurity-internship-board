@@ -1,6 +1,38 @@
 {
-  "last_updated": "2026-11-21T16:01:27.201229+00:00",
+  "last_updated": "2026-11-21T21:38:06.613049+00:00",
   "internships": [
+    {
+      "company": "CrowdStrike",
+      "title": "Cloud Security Sales Specialist, Central Europe (CEUR) (Remote, DACH)",
+      "location": "3 Locations",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Germany---Remote/Cloud-Security-Specialist--Central-Europe--CEUR---Remote--DACH-_R30997",
+      "date_posted": "Posted Yesterday",
+      "date_scraped": "2026-11-21"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Specialist Sales, Cloud Security",
+      "location": "Japan - Tokyo",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Japan---Tokyo/Specialist-Sales-Manager--ASPM-Cloud_R29011",
+      "date_posted": "Posted 8 Days Ago",
+      "date_scraped": "2026-11-21"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Sr. Security Researcher (Remote)",
+      "location": "4 Locations",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Germany---Remote/Sr-Security-Researcher_R29648",
+      "date_posted": "Posted 2 Days Ago",
+      "date_scraped": "2026-11-21"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Sr Software Engineer, Cloud - Vulnerability Management (Hybrid)",
+      "location": "USA - Sunnyvale, CA",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Engineer---Risk-Platform--Hybrid--Sunnyvale-_R29171",
+      "date_posted": "Posted 11 Days Ago",
+      "date_scraped": "2026-11-21"
+    },
     {
       "company": "Microsoft",
       "title": "Personnel Security Officer",
@@ -1555,14 +1587,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Security Researcher II",
-      "location": "Hyderabad, TS, IN; Hyderabad, TS, IN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557074218-security-researcher-ii-india-telangana-hyderabad?domain=microsoft.com",
-      "date_posted": "2026-11-17",
-      "date_scraped": "2026-11-21"
-    },
-    {
-      "company": "Microsoft",
       "title": "Security Research: PhD Internship Opportunities",
       "location": "Redmond, WA, US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557074642-security-research-phd-internship-opportunities-united-states-washington-redmond?domain=microsoft.com",
@@ -1902,14 +1926,6 @@
       "title": "Principal Security Researcher",
       "location": "DE",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557070072-principal-security-researcher-germany-multiple-locations-multiple-locations?domain=microsoft.com",
-      "date_posted": "2026-11-16",
-      "date_scraped": "2026-11-21"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Security Researcher II",
-      "location": "Hyderabad, TS, IN; Hyderabad, TS, IN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557074120-security-researcher-ii-india-telangana-hyderabad?domain=microsoft.com",
       "date_posted": "2026-11-16",
       "date_scraped": "2026-11-21"
     },
@@ -3363,14 +3379,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Datacenter Security Operations Manager",
-      "location": "Pune, MH, IN; Hyderabad, TS, IN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557006919-datacenter-security-operations-manager-india-maharashtra-pune?domain=microsoft.com",
-      "date_posted": "2026-11-15",
-      "date_scraped": "2026-11-21"
-    },
-    {
-      "company": "Microsoft",
       "title": "Cloud Solution Architect - Data Security",
       "location": "US",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557001503-cloud-solution-architect-data-security-united-states-multiple-locations-multiple-locations?domain=microsoft.com",
@@ -4211,10 +4219,6 @@
     }
   ],
   "failed_scrapers": [
-    {
-      "company": "CrowdStrike",
-      "error": "429 Client Error: Too Many Requests for url: https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crowdstrike/crowdstrikecareers/jobs"
-    },
     {
       "company": "Rapid7",
       "error": "429 Client Error: Too Many Requests for url: https://rapid7.wd5.myworkdayjobs.com/wday/cxs/rapid7/rapid7-Careers/jobs"
